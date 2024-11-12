@@ -19,7 +19,7 @@ export const store = configureStore({
     ]);
   },
 });
-
+//
 setupListeners(store.dispatch);
 
 export type AppDispatch = typeof store.dispatch;
@@ -30,4 +30,5 @@ export type AppThunk<ReturnType = void> = ThunkAction<
   unknown,
   Action<string>
 >;
+
 export * from "./api";

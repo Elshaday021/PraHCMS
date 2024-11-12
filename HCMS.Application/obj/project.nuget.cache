@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kB72Bg7KsyF901C60QsVtwaKZPJM9NUKNyE/gmE2MjHsoQvCjiVLinXP5VlJ63iujYWKxnq009u5VfYPTRdILA==",
+  "dgSpecHash": "r1GbwpwkGmIaQkMPZAhOJZouTgLPz7zQD3OkAkku54payNMjZU8w5P61NGqjdZWoeThRFPkxV6oEne+eJOC7wA==",
   "success": true,
-  "projectFilePath": "D:\\BerhanProjects\\HCMS\\HCMS.Application\\HCMS.Application.csproj",
+  "projectFilePath": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS.Application\\HCMS.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrator\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\fluentemail.core\\3.0.2\\fluentemail.core.3.0.2.nupkg.sha512",

@@ -33,14 +33,16 @@ export const EmployeeDialog = ({ onClose }: { onClose: () => void }) => {
   const { businessUnitLookups } = useBusinessUnit();
   const { jobTitlesLookups } = useJobTitle();
   useEffect(() => {
-    setEmployee({
-      ...emptyEmployeeData,
-      ...EmployeeData,
-    });
-  }, [emptyEmployeeData, EmployeeData]);
+    if(!EmployeeData){
+      setEmployee({
+        ...emptyEmployeeData,
+      });
+    }
+  }, []);
 
   const handleSubmit = useCallback(
     (values: CreateEmployeeProfileCommand) => {
+  
       const birthDate = dayjs(values.birthDate).format("YYYY-MM-DD");
       const employementDate = values.employementDate && dayjs(values.employementDate).format("YYYY-MM-DD");
 
@@ -49,8 +51,8 @@ export const EmployeeDialog = ({ onClose }: { onClose: () => void }) => {
         createEmployeeProfileCommand: payload,
       }) 
         .unwrap()
-        .then(onClose);
-    },
+        .then(() => onClose()); 
+      },
     [onClose, addEmployee]
   );
   return (

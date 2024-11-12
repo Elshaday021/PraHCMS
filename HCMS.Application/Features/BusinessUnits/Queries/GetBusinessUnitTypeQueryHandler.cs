@@ -19,4 +19,8 @@ namespace HCMS.Application.Features.BusinessUnits
             return await dataService.BusinessUnitTypes.ToListAsync(cancellationToken);
         }
     }
+    //
+  
+    //by me for the query builder on it.
+    //for the
 }

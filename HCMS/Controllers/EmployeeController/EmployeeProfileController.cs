@@ -3,6 +3,7 @@ using HCMS.Application.Features;
 using HCMS.Application.Features.Employees;
 using HCMS.Application.Features.Employees.Queries;
 using Microsoft.AspNetCore.Mvc;
+using System.Reflection.Metadata.Ecma335;
 
 namespace HCMS.API.Controllers.EmployeeController
 {
@@ -25,6 +26,22 @@ namespace HCMS.API.Controllers.EmployeeController
         {
             var searchResult = await mediator.Send(new GetEmployeeListQuery());
             return searchResult;
+        }
+        [HttpPost("Update",Name="UpdateEmployeeProfile")]
+        [ProducesResponseType(200)]
+        public async Task<ActionResult<int>> UpdateEmployeeProfile([FromBody]UpdateEmployeeProfileCommand updateEmployee)
+        {
+            if(updateEmployee != null)
+            {
+                var EmployeeId = await mediator.Send(updateEmployee);
+                return Ok(EmployeeId);
+
+            }
+            else
+            {
+                return BadRequest();
+            }
+
         }
 
     }

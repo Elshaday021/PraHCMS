@@ -26,6 +26,35 @@ const injectedRtkApi = api.injectEndpoints({
         body: queryArg.verificationCode,
       }),
     }),
+    createBenefit: build.mutation<
+      CreateBenefitApiResponse,
+      CreateBenefitApiArg
+    >({
+      query: (queryArg) => ({
+        url: `/Api/Benefit/CreateBenefit`,
+        method: "POST",
+        body: queryArg.createBenefitCommand,
+      }),
+    }),
+    getAllBenefit: build.query<GetAllBenefitApiResponse, GetAllBenefitApiArg>({
+      query: () => ({ url: `/Api/Benefit/GetAllBenefit` }),
+    }),
+    getBenefitById: build.query<
+      GetBenefitByIdApiResponse,
+      GetBenefitByIdApiArg
+    >({
+      query: (queryArg) => ({
+        url: `/Api/Benefit/GetBenefitById`,
+        params: { id: queryArg.id },
+      }),
+    }),
+    updateBenfit: build.mutation<UpdateBenfitApiResponse, UpdateBenfitApiArg>({
+      query: (queryArg) => ({
+        url: `/Api/Benefit/UpdateBenefit`,
+        method: "PUT",
+        body: queryArg.updateBenefitCommand,
+      }),
+    }),
     getAllBusinessUnits: build.query<
       GetAllBusinessUnitsApiResponse,
       GetAllBusinessUnitsApiArg
@@ -57,6 +86,16 @@ const injectedRtkApi = api.injectEndpoints({
       GetAllEmployeesApiArg
     >({
       query: () => ({ url: `/api/EmployeeProfile/all` }),
+    }),
+    updateEmployeeProfile: build.mutation<
+      UpdateEmployeeProfileApiResponse,
+      UpdateEmployeeProfileApiArg
+    >({
+      query: (queryArg) => ({
+        url: `/api/EmployeeProfile/Update`,
+        method: "POST",
+        body: queryArg.updateEmployeeProfileCommand,
+      }),
     }),
     addJobCatagory: build.mutation<
       AddJobCatagoryApiResponse,
@@ -120,6 +159,20 @@ export type VerificationCodeApiResponse = /** status 200 Success */ void;
 export type VerificationCodeApiArg = {
   verificationCode: VerificationCode;
 };
+export type CreateBenefitApiResponse = /** status 200 Success */ number;
+export type CreateBenefitApiArg = {
+  createBenefitCommand: CreateBenefitCommand;
+};
+export type GetAllBenefitApiResponse = /** status 200 Success */ BenefitDto;
+export type GetAllBenefitApiArg = void;
+export type GetBenefitByIdApiResponse = /** status 200 Success */ BenefitDto;
+export type GetBenefitByIdApiArg = {
+  id?: number;
+};
+export type UpdateBenfitApiResponse = /** status 200 Success */ number;
+export type UpdateBenfitApiArg = {
+  updateBenefitCommand: UpdateBenefitCommand;
+};
 export type GetAllBusinessUnitsApiResponse =
   /** status 200 Success */ BusinessUnitDto[];
 export type GetAllBusinessUnitsApiArg = void;
@@ -134,6 +187,10 @@ export type CreateEmployeeProfileApiArg = {
 export type GetAllEmployeesApiResponse =
   /** status 200 Success */ EmployeeDto[];
 export type GetAllEmployeesApiArg = void;
+export type UpdateEmployeeProfileApiResponse = /** status 200 Success */ number;
+export type UpdateEmployeeProfileApiArg = {
+  updateEmployeeProfileCommand: UpdateEmployeeProfileCommand;
+};
 export type AddJobCatagoryApiResponse = /** status 200 Success */ number;
 export type AddJobCatagoryApiArg = {
   addJobCatagoryCommand: AddJobCatagoryCommand;
@@ -183,6 +240,25 @@ export type UserRegisterDto = {
 export type VerificationCode = {
   code?: string | null;
 };
+export type BenefitType = 1 | 2 | 3;
+export type CreateBenefitCommand = {
+  id?: number;
+  name?: string | null;
+  benefitType?: BenefitType;
+  description?: string | null;
+};
+export type BenefitDto = {
+  id?: number;
+  name?: string | null;
+  benefitType?: BenefitType;
+  description?: string | null;
+};
+export type UpdateBenefitCommand = {
+  id?: number;
+  name?: string | null;
+  benefitType?: BenefitType;
+  description?: string | null;
+};
 export type BusinessUnitDto = {
   id?: number;
   businessUnitID?: string | null;
@@ -203,6 +279,8 @@ export type CreateBusinessUnitCommand = {
 export type Gender = 1 | 2;
 export type MartialStatus = 1 | 2 | 3 | 4;
 export type CreateEmployeeProfileCommand = {
+  id?: number;
+  employeeId?: string | null;
   name?: string | null;
   businessUnitID?: number;
   jobTitleId?: number;
@@ -217,6 +295,17 @@ export type EmployeeDto = {
   employeeName?: string | null;
   businessUnit?: string | null;
   jobTitle?: string | null;
+  birthDate?: string;
+  employementDate?: string;
+  gender?: Gender;
+  martialStatus?: MartialStatus;
+};
+export type UpdateEmployeeProfileCommand = {
+  id?: number;
+  employeeId?: string | null;
+  name?: string | null;
+  businessUnitID?: number;
+  jobTitleId?: number;
   birthDate?: string;
   employementDate?: string;
   gender?: Gender;
@@ -273,12 +362,19 @@ export const {
   useLoginMutation,
   useRegisterUserMutation,
   useVerificationCodeMutation,
+  useCreateBenefitMutation,
+  useGetAllBenefitQuery,
+  useLazyGetAllBenefitQuery,
+  useGetBenefitByIdQuery,
+  useLazyGetBenefitByIdQuery,
+  useUpdateBenfitMutation,
   useGetAllBusinessUnitsQuery,
   useLazyGetAllBusinessUnitsQuery,
   useCreateBusinessUnitMutation,
   useCreateEmployeeProfileMutation,
   useGetAllEmployeesQuery,
   useLazyGetAllEmployeesQuery,
+  useUpdateEmployeeProfileMutation,
   useAddJobCatagoryMutation,
   useAddJobGradeMutation,
   useAddJobTitleMutation,

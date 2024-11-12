@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "axZXq9XcYyHAqYMT9c9OqfZVAzzKK3F/NJ38uaM+R4hTdXeQjGLQryklxga3QtqVAUHZEoSYEPxTS6p4N2+atw==",
+  "dgSpecHash": "7xx3a5e3BZqJ6VNAb1OF6x50zg3g60cbgbIKPMFoMyfFlUPiAGEUuebE3x64AL+Y0GUFKyg2tj/I8Ubg3Ap7hw==",
   "success": true,
-  "projectFilePath": "D:\\BerhanProjects\\HCMS\\HCMS\\HCMS.API.csproj",
+  "projectFilePath": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS\\HCMS.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrator\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lNXjYbXCMp8qIAPyj8I/GQGQzS4+LIvc54SL8gO2Tsw713+4O0s6o73wGCHGgGKhmrj5EaOw4k/VYo3hAvZrlg==",
+  "dgSpecHash": "kK1IdWpWGuFyLRj3hq3gaYGVm6zeRaH8Qhgn9Ex6hxj9GTnSqf0f9z1dSsM7g4Bq+EHTFfqvHUSEZhcO5RLHRw==",
   "success": true,
-  "projectFilePath": "D:\\BerhanProjects\\HCMS\\HCMS.Persistance\\HCMS.Persistance.csproj",
+  "projectFilePath": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS.Persistance\\HCMS.Persistance.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrator\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",

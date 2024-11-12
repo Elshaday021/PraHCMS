@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "m1N+L00cBey8FnjENdaZVsTK0pwPBZY03rcdU9+saMeHSsica7xlCFJRO7O+IzvsnMD4FaUaOIoyTo41tLcfVA==",
+  "dgSpecHash": "1RW+Fp393kb/QNDg1XDbD2eQISr1FrJs02lef6VeM2zw/aiPzijftbvhyepxw34Zyo43TOyWip2ehJES5KO5hQ==",
   "success": true,
-  "projectFilePath": "D:\\BerhanProjects\\HCMS\\HCMS.Domain\\HCMS.Domain.csproj",
+  "projectFilePath": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS.Domain\\HCMS.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",

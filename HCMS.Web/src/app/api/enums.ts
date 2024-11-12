@@ -8,3 +8,8 @@ export enum MartialStatus {
   Divorced = 3,
   Widowed = 4,
 }
+export enum BenefitType {
+  Transport = 1,
+  House = 2,
+  Medical = 3,
+}

@@ -17,7 +17,7 @@ import { JobCatagoryHome } from "../features/Job/JobCatagory/JobCatagoryHome";
 import { JobGradeHome } from "../features/Job/JobGrade/JobGradeHome";
 import { JobTitleHome } from "../features/Job/JobTitle/JobTitleHome";
 import { EmployeesHome } from "../features/Employee/EmployeeHome";
-
+import { BenefitHome } from "../features/Benefit/BenefitHome";
 const AppRoutes = () => {
   const navigate = useNavigate();
   const { loggedIn } = useAuth();
@@ -54,6 +54,7 @@ const AppRoutes = () => {
       <Route path="jobgrade" element={<JobGradeHome />} />
       <Route path="jobtitle" element={<JobTitleHome />} />
       <Route path="employees" element={<EmployeesHome />} />
+      <Route path="Benefit" element={<BenefitHome/>}/>
       {/* <Route path="test" element={<Test />} /> */}
 
       {/* <Route path="forgot-password" element={<ForgotPassword />} />

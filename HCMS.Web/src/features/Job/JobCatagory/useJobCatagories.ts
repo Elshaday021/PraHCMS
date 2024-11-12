@@ -1,6 +1,7 @@
 import { useMemo } from "react";
 import { SelectOption } from "../../../types";
 import { useGetAllLookupsQuery } from "../../../app/api/HCMSApi";
+import { SelectChangeEvent } from "@mui/material";
 
 export const useJobCatagory = () => {
   const { data } = useGetAllLookupsQuery();
@@ -20,3 +21,5 @@ export const useJobCatagory = () => {
     JobCatagoryLookups,
   };
 };
+//custom hook return the jobCategory lookup
+

@@ -8,6 +8,7 @@ using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 using SMS.Persistence;
+using HCMS.Domain.Benefit;
 
 namespace HCMS.Persistance.DBContext
 {
@@ -31,6 +32,7 @@ namespace HCMS.Persistance.DBContext
         public DbSet<JobGrade> JobGrades {  get; set; }
         public DbSet<EmailTemplate> EmailTemplates { get; set; }
         public DbSet<BusinessUnitType> BusinessUnitTypes { get; set; }
+        public DbSet<Benefits> Benefits { get; set; }
         public void Save()
         {
             this.SaveChanges();

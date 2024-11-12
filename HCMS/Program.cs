@@ -15,7 +15,7 @@ builder.Services.AddScoped<IUserAccount, UserAccountRegister>();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer()
     .AddSwagger()
-      .AddInfrastructureService()
+    .AddInfrastructureService()
     .AddPersistenceService(builder.Configuration)
     .AddApplicationServices()
     .AddScoped<HttpContextAccessor>(); ;
@@ -30,10 +30,9 @@ if (app.Environment.IsDevelopment())
     await DataSeeder.SeedData(app);
 }
 
-app.UseHttpsRedirection();
+//app.UseHttpsRedirection();
 app.UseAuthentication();
 app.UseAuthorization();
-
 app.MapControllers();
 
 app.Run();

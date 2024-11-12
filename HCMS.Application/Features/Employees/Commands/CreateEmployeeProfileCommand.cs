@@ -7,8 +7,10 @@ namespace HCMS.Application.Features.Employees
     public class CreateEmployeeProfileCommand:IRequest<int>
     {
 
-       // public int Id { get; set; }
-       // public string EmployeeId { get; set; }
+        public int Id { get; set; }/// <summary>
+                                   /// UpdateEmployeeProfileCommand
+                                   /// </summary>
+        public string EmployeeId { get; set; }
         public string Name { get; set; }
         public int BusinessUnitID { get; set; }
         public int JobTitleId { get; set; }

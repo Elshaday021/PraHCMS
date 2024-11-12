@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RNeSrlGqNkqE8Gg7eTu+aPFCj+cKQhMUEfR4BkFr2gNQEWixmDJbIszE2a0eL8fAJM58E02CzX9zW1qL6c0MZw==",
+  "dgSpecHash": "qepmqy6nEJUfyMQ+fbxlaYMM929B3jX5BmadtNp2qArvJLWVjdAamjKmSCLA4iVSdD9DWXAlbUD44O0Yf95g5A==",
   "success": true,
-  "projectFilePath": "D:\\BerhanProjects\\HCMS\\HCMS.Service\\HCMS.Service.csproj",
+  "projectFilePath": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS.Service\\HCMS.Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrator\\.nuget\\packages\\fluentemail.core\\3.0.2\\fluentemail.core.3.0.2.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\fluentemail.liquid\\3.0.2\\fluentemail.liquid.3.0.2.nupkg.sha512",

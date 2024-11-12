@@ -3,6 +3,7 @@ using HCMS.Domain.EmailTemplet;
 using HCMS.Domain;
 using HCMS.Domain.Job;
 using Microsoft.EntityFrameworkCore;
+using HCMS.Domain.Benefit;
 
 namespace HCMS.Services.DataService
 {
@@ -17,6 +18,7 @@ namespace HCMS.Services.DataService
         public DbSet<EmailTemplate> EmailTemplates { get; set; }
         public DbSet<JobCatagory> JobCatagories { get; set; }
         public DbSet<BusinessUnitType> BusinessUnitTypes { get; set; }
+        public DbSet<Benefits> Benefits { get; set; }
         void Save();
         Task SaveAsync(CancellationToken cancellationToken);
     }

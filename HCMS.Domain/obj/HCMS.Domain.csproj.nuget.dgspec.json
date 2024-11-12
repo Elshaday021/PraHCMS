@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\BerhanProjects\\HCMS\\HCMS.Domain\\HCMS.Domain.csproj": {}
+    "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS.Domain\\HCMS.Domain.csproj": {}
   },
   "projects": {
-    "D:\\BerhanProjects\\HCMS\\HCMS.Domain\\HCMS.Domain.csproj": {
+    "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS.Domain\\HCMS.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\BerhanProjects\\HCMS\\HCMS.Domain\\HCMS.Domain.csproj",
+        "projectUniqueName": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS.Domain\\HCMS.Domain.csproj",
         "projectName": "HCMS.Domain",
-        "projectPath": "D:\\BerhanProjects\\HCMS\\HCMS.Domain\\HCMS.Domain.csproj",
+        "projectPath": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS.Domain\\HCMS.Domain.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "D:\\BerhanProjects\\HCMS\\HCMS.Domain\\obj\\",
+        "outputPath": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -39,6 +39,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -74,7 +79,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

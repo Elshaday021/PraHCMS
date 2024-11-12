@@ -24,6 +24,30 @@ namespace HCMS.Persistance.Migrations
 
             modelBuilder.HasSequence<int>("EmployeeId");
 
+            modelBuilder.Entity("HCMS.Domain.Benefit.Benefit", b =>
+                {
+                    b.Property<int>("ID")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("ID"));
+
+                    b.Property<string>("Description")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Name")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<int>("benefitType")
+                        .HasColumnType("int");
+
+                    b.HasKey("ID");
+
+                    b.ToTable("Benefits");
+                });
+
             modelBuilder.Entity("HCMS.Domain.BusinessUnit.BusinessUnit", b =>
                 {
                     b.Property<int>("Id")
