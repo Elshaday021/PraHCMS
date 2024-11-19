@@ -19,7 +19,8 @@ namespace HCMS.Application.Features.Benefit.Queries
             this.service = service;
         }
         public async Task<BenefitDto> Handle(GetBenefitByIdQuery query,CancellationToken token)
-        {
+        {   
+
             var updateBenfit= await service.Benefits.FindAsync(query.ID);
              if(updateBenfit != null)
             {

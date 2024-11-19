@@ -20,20 +20,20 @@ export const useJobGrade = () => {
     JobGradesLookups,
   };
 };
-//use custo hoolk by me 
-export const UseJobGradeMe=()=>{
-  const {data}=useGetAllLookupsQuery();
-  const {JobGradesLookups,jobGrades}=useMemo(()=>{
-       const JobGradesLookups=(data?.jobGrades || []).map<SelectOption>(
-       
-       ({value,name,description})=>({label:name||description||"",
-        value:value
+//use custo hoolk by me
+export const UseJobGradeMe = () => {
+  const { data } = useGetAllLookupsQuery();
+  const { JobGradesLookups, jobGrades } = useMemo(() => {
+    const JobGradesLookups = (data?.jobGrades || []).map<SelectOption>(
+      ({ value, name, description }) => ({
+        label: name || description || "",
+        value: value,
       })
-       );
-   return {JobGradesLookups,jobGrades:data?.jobGrades}
-  },[data])
+    );
+    return { JobGradesLookups, jobGrades: data?.jobGrades };
+  }, [data]);
   return {
     jobGrades,
-    JobGradesLookups
-  }
-}
+    JobGradesLookups,
+  };
+};

@@ -23,7 +23,7 @@ export const EmployeesHome = () => {
     <Box>
       <PageHeader title={"Employees"} icon={undefined} />
       <Box sx={{ display: "flex" }}>
-         <Box sx={{ flex: 1 }}></Box>
+        <Box sx={{ flex: 1 }}></Box>
         <Button
           variant="outlined"
           startIcon={<AddIcon />}
@@ -42,7 +42,7 @@ export const EmployeesHome = () => {
         />
       )}
       <Box>
-        <EmployeeList items={data}/>
+        <EmployeeList items={data} />
       </Box>
     </Box>
   );

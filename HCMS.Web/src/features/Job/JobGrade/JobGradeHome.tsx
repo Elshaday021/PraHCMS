@@ -9,6 +9,7 @@ import { JobGradeList } from "./JobGradeList";
 import { useGetAllJobGradeQuery } from "../../../app/api/HCMSApi";
 import SetupMenu from "../SetupMenu";
 import GradeIcon from "@mui/icons-material/Grade";
+import { JobGradeDialogUpdate } from "./JobGradeDialogUpdate";
 
 const Header = ({ text }: { text: string }) => (
   <Typography
@@ -22,6 +23,8 @@ const Header = ({ text }: { text: string }) => (
 
 export const JobGradeHome = () => {
   const [dialogOpened, setDialogOpened] = useState(false);
+  const [dialogOpenedUpdate, setDialogOpenedUpdate] = useState(false);
+
   const { data } = useGetAllJobGradeQuery();
   const navigate = useNavigate();
   return (
@@ -58,6 +61,13 @@ export const JobGradeHome = () => {
         <JobGradeDialog
           onClose={() => {
             setDialogOpened(false);
+          }}
+        />
+      )}
+      {dialogOpenedUpdate && (
+        <JobGradeDialog
+          onClose={() => {
+            setDialogOpenedUpdate(false);
           }}
         />
       )}

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HCMS.Persistance")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a361c005c0cfcb568fd7b72835dd36788e3a4724")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1a6d07594c0f64072560c45c4bdfaf6e9ee72937")]
 [assembly: System.Reflection.AssemblyProductAttribute("HCMS.Persistance")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HCMS.Persistance")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

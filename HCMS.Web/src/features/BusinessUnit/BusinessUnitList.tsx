@@ -34,10 +34,18 @@ export const BusinessUnitList = ({
           <Table size="medium">
             <TableHead>
               <TableRow>
-                <TableCell sx={{fontWeight: 'bold'}}>Name</TableCell>
-                <TableCell sx={{fontWeight: 'bold'}}>Parent BusinessUnit</TableCell>
-                <TableCell sx={{fontWeight: 'bold'}}> BusinessUnit ID</TableCell>
-                <TableCell sx={{fontWeight: 'bold'}}> BusinessUnit Type</TableCell>
+                <TableCell sx={{ fontWeight: "bold" }}>Name</TableCell>
+                <TableCell sx={{ fontWeight: "bold" }}>
+                  Parent BusinessUnit
+                </TableCell>
+                <TableCell sx={{ fontWeight: "bold" }}>
+                  {" "}
+                  BusinessUnit ID
+                </TableCell>
+                <TableCell sx={{ fontWeight: "bold" }}>
+                  {" "}
+                  BusinessUnit Type
+                </TableCell>
               </TableRow>
             </TableHead>
             <TableBody>

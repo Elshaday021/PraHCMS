@@ -139,6 +139,55 @@ const injectedRtkApi = api.injectEndpoints({
     >({
       query: () => ({ url: `/api/Job/allJobTitles` }),
     }),
+    approveJobGrade: build.mutation<
+      ApproveJobGradeApiResponse,
+      ApproveJobGradeApiArg
+    >({
+      query: (queryArg) => ({
+        url: `/api/Job/ApprovedJobGrade`,
+        method: "PUT",
+        params: { id: queryArg.id },
+      }),
+    }),
+    getJobGradeById: build.query<
+      GetJobGradeByIdApiResponse,
+      GetJobGradeByIdApiArg
+    >({
+      query: (queryArg) => ({
+        url: `/api/Job/GetByID`,
+        params: { id: queryArg.id },
+      }),
+    }),
+    rejectJobGrade: build.mutation<
+      RejectJobGradeApiResponse,
+      RejectJobGradeApiArg
+    >({
+      query: (queryArg) => ({
+        url: `/api/Job/RejectJobGrade`,
+        method: "PUT",
+        params: { id: queryArg.id },
+      }),
+    }),
+    submitJobGrade: build.mutation<
+      SubmitJobGradeApiResponse,
+      SubmitJobGradeApiArg
+    >({
+      query: (queryArg) => ({
+        url: `/api/Job/SubmitJobGrade`,
+        method: "PUT",
+        params: { id: queryArg.id },
+      }),
+    }),
+    updateJobGrade: build.mutation<
+      UpdateJobGradeApiResponse,
+      UpdateJobGradeApiArg
+    >({
+      query: (queryArg) => ({
+        url: `/api/Job/UpdateJobGrade`,
+        method: "PUT",
+        body: queryArg.jobGradeUpdateCommand,
+      }),
+    }),
     getAllLookups: build.query<GetAllLookupsApiResponse, GetAllLookupsApiArg>({
       query: () => ({ url: `/api/Lookup/all` }),
     }),
@@ -210,6 +259,26 @@ export type GetAllJobGradeApiResponse = /** status 200 Success */ JobGrade[];
 export type GetAllJobGradeApiArg = void;
 export type GetAllJobTitleApiResponse = /** status 200 Success */ JobTitleDto[];
 export type GetAllJobTitleApiArg = void;
+export type ApproveJobGradeApiResponse = /** status 200 Success */ number;
+export type ApproveJobGradeApiArg = {
+  id?: number;
+};
+export type GetJobGradeByIdApiResponse = /** status 200 Success */ JobGrade;
+export type GetJobGradeByIdApiArg = {
+  id?: number;
+};
+export type RejectJobGradeApiResponse = /** status 200 Success */ number;
+export type RejectJobGradeApiArg = {
+  id?: number;
+};
+export type SubmitJobGradeApiResponse = /** status 200 Success */ number;
+export type SubmitJobGradeApiArg = {
+  id?: number;
+};
+export type UpdateJobGradeApiResponse = /** status 200 Success */ string;
+export type UpdateJobGradeApiArg = {
+  jobGradeUpdateCommand: JobGradeUpdateCommand;
+};
 export type GetAllLookupsApiResponse = /** status 200 Success */ LookupDto;
 export type GetAllLookupsApiArg = void;
 export type LoginRes = {
@@ -250,7 +319,7 @@ export type CreateBenefitCommand = {
 export type BenefitDto = {
   id?: number;
   name?: string | null;
-  benefitType?: BenefitType;
+  benefitType?: string | null;
   description?: string | null;
 };
 export type UpdateBenefitCommand = {
@@ -315,9 +384,11 @@ export type AddJobCatagoryCommand = {
   name?: string | null;
   description?: string | null;
 };
+export type JobGradeStatus = 1 | 2 | 3 | 4;
 export type AddJobGradeCommand = {
   name?: string | null;
   description?: string | null;
+  status?: JobGradeStatus;
 };
 export type AddJobTitleCommand = {
   id?: number;
@@ -337,6 +408,7 @@ export type JobGrade = {
   value?: JobGradeEnum;
   name?: string | null;
   description?: string | null;
+  status?: JobGradeStatus;
 };
 export type JobTitleDto = {
   id?: number;
@@ -344,6 +416,12 @@ export type JobTitleDto = {
   description?: string | null;
   jobCatagory?: string | null;
   jobGrade?: string | null;
+};
+export type JobGradeUpdateCommand = {
+  value?: number;
+  name?: string | null;
+  description?: string | null;
+  status?: JobGradeStatus;
 };
 export type BusinessUnitTypeEnum = 1 | 2 | 3 | 4 | 5;
 export type BusinessUnitType = {
@@ -384,6 +462,12 @@ export const {
   useLazyGetAllJobGradeQuery,
   useGetAllJobTitleQuery,
   useLazyGetAllJobTitleQuery,
+  useApproveJobGradeMutation,
+  useGetJobGradeByIdQuery,
+  useLazyGetJobGradeByIdQuery,
+  useRejectJobGradeMutation,
+  useSubmitJobGradeMutation,
+  useUpdateJobGradeMutation,
   useGetAllLookupsQuery,
   useLazyGetAllLookupsQuery,
 } = injectedRtkApi;

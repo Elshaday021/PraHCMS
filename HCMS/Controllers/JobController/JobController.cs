@@ -1,5 +1,13 @@
 ﻿using HCMS.Application.Features.Jobs.JobCatagories;
 using HCMS.Application.Features.Jobs.JobGrades;
+using HCMS.Application.Features.Jobs.JobGrades.Command.ApprovedCommand;
+using HCMS.Application.Features.Jobs.JobGrades.Command.CreateCommand;
+using HCMS.Application.Features.Jobs.JobGrades.Command.RejecteCommand;
+using HCMS.Application.Features.Jobs.JobGrades.Command.SubmitCommand;
+using HCMS.Application.Features.Jobs.JobGrades.Command.UpdateCommand;
+using HCMS.Application.Features.Jobs.JobGrades.Models;
+using HCMS.Application.Features.Jobs.JobGrades.Queries;
+using HCMS.Application.Features.Jobs.JobGrades.Queries.DraftQuery;
 using HCMS.Application.Features.Jobs.JobTitles;
 using HCMS.Domain.Job;
 using MediatR;
@@ -8,7 +16,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace HCMS.API.Controllers.JobController
 {
-    
+
     [Route("api/[controller]")]
     [ApiController]
     public class JobController:BaseController<JobController>
@@ -20,6 +28,60 @@ namespace HCMS.API.Controllers.JobController
         {
             var jobGrade=await mediator.Send(command);
             return (jobGrade);
+        }
+        [HttpPut("UpdateJobGrade", Name ="UpdateJobGrade")]
+        [ProducesResponseType(200)]
+        [ProducesResponseType(400)]
+        [ProducesResponseType(500)]
+        public async Task<ActionResult<string>> UpdateJobGrade([FromBody] JobGradeUpdateCommand command)
+        {
+            try
+            {
+
+                var jobGradeUpdated = await mediator.Send(command);
+                return Ok(new{ data=jobGradeUpdated});
+            }
+            catch(Exception ex)
+            {
+                return ex.Message;
+            }
+        }
+        [HttpPut("SubmitJobGrade",Name ="SubmitJobGrade")]
+        [ProducesResponseType(200)]
+        [ProducesResponseType(500)]
+        public async Task<ActionResult<int>>SubmitJobGrade(int id)
+        {
+            var submittedJobGrade = await mediator.Send(new SubmitJobGradeCommand { id=id});
+            return (ActionResult<int>)submittedJobGrade;
+        }
+        [HttpPut("RejectJobGrade",Name ="RejectJobGrade")]
+        [ProducesResponseType(200)]
+        [ProducesResponseType(500)]
+
+        public async Task<ActionResult<int>>RejectJobGrade(int id)
+        {
+            var RejectedJobGrade = await mediator.Send( new RejectJobGradeCommand { id=id});
+            return (int)RejectedJobGrade;
+
+        }
+        [HttpPut("ApprovedJobGrade",Name ="ApprovedJobGrade")]
+        [ProducesResponseType(200)]
+        [ProducesResponseType(500)]
+        public async Task<ActionResult<int>>ApproveJobGrade(int id)
+        {
+            var ApprovedJobGrade = await mediator.Send(new ApproveJobGradeCommand { id=id});
+            return (int)ApprovedJobGrade;
+        }
+        [HttpGet("GetByID",Name ="GetByID")]
+        [ProducesResponseType(200)]
+        [ProducesResponseType(500)]
+        public async Task<ActionResult<JobGrade>>GetJobGradeById(int id)
+        {
+            
+                var JobGrade = await mediator.Send(new JobGradeByIDQuery(id));
+                return JobGrade;
+
+
         }
         [HttpPost("AddJobTitle", Name = "AddJobTitle")]
         [ProducesResponseType(200)]

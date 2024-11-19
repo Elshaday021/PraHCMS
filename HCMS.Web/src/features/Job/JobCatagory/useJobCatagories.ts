@@ -22,4 +22,3 @@ export const useJobCatagory = () => {
   };
 };
 //custom hook return the jobCategory lookup
-

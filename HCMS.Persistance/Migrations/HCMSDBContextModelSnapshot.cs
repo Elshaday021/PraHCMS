@@ -24,7 +24,7 @@ namespace HCMS.Persistance.Migrations
 
             modelBuilder.HasSequence<int>("EmployeeId");
 
-            modelBuilder.Entity("HCMS.Domain.Benefit.Benefit", b =>
+            modelBuilder.Entity("HCMS.Domain.Benefit.Benefits", b =>
                 {
                     b.Property<int>("ID")
                         .ValueGeneratedOnAdd()
@@ -217,6 +217,9 @@ namespace HCMS.Persistance.Migrations
                     b.Property<string>("Name")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
+
+                    b.Property<int>("Status")
+                        .HasColumnType("int");
 
                     b.HasKey("Value");
 

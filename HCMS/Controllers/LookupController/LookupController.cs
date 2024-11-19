@@ -3,6 +3,8 @@ using HCMS.Application.Features.BusinessUnits;
 using HCMS.Application.Features.BusinessUnits.Queries;
 using HCMS.Application.Features.Jobs.JobCatagories;
 using HCMS.Application.Features.Jobs.JobGrades;
+using HCMS.Application.Features.Jobs.JobGrades.Queries;
+using HCMS.Application.Features.Jobs.JobGrades.Queries.DraftQuery;
 using HCMS.Application.Features.Jobs.JobTitles;
 using Microsoft.AspNetCore.Mvc;
 

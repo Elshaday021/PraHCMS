@@ -8,6 +8,9 @@
 
   <ItemGroup>
     <Folder Include="Features\BusinessUnits\Commands\UpdateBusinessUnit\" />
+    <Folder Include="Features\Jobs\JobGrades\Queries\ApprovedQuery\" />
+    <Folder Include="Features\Jobs\JobGrades\Queries\RejectedQuery\" />
+    <Folder Include="Features\Jobs\JobGrades\Queries\SubmitQuery\" />
   </ItemGroup>
 
   <ItemGroup>

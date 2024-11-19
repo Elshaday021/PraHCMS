@@ -3,12 +3,125 @@
   "WorkspaceRootPath": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7EE44B97-59E4-4361-89E7-294125A87CEE}|HCMS.Application\\HCMS.Application.csproj|d:\\new_hcms_by_me\\new_hcms\\hcms\\hcms\\hcms.application\\features\\jobs\\jobgrades\\command\\rejectecommand\\rejectjobgradecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EE44B97-59E4-4361-89E7-294125A87CEE}|HCMS.Application\\HCMS.Application.csproj|solutionrelative:hcms.application\\features\\jobs\\jobgrades\\command\\rejectecommand\\rejectjobgradecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EE44B97-59E4-4361-89E7-294125A87CEE}|HCMS.Application\\HCMS.Application.csproj|d:\\new_hcms_by_me\\new_hcms\\hcms\\hcms\\hcms.application\\features\\jobs\\jobgrades\\command\\approvedcommand\\approvejobgradecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EE44B97-59E4-4361-89E7-294125A87CEE}|HCMS.Application\\HCMS.Application.csproj|solutionrelative:hcms.application\\features\\jobs\\jobgrades\\command\\approvedcommand\\approvejobgradecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EE44B97-59E4-4361-89E7-294125A87CEE}|HCMS.Application\\HCMS.Application.csproj|d:\\new_hcms_by_me\\new_hcms\\hcms\\hcms\\hcms.application\\features\\jobs\\jobgrades\\command\\submitcommand\\submitjobgradecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EE44B97-59E4-4361-89E7-294125A87CEE}|HCMS.Application\\HCMS.Application.csproj|solutionrelative:hcms.application\\features\\jobs\\jobgrades\\command\\submitcommand\\submitjobgradecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EE44B97-59E4-4361-89E7-294125A87CEE}|HCMS.Application\\HCMS.Application.csproj|d:\\new_hcms_by_me\\new_hcms\\hcms\\hcms\\hcms.application\\features\\jobs\\jobgrades\\queries\\draftquery\\jobgradequerybyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EE44B97-59E4-4361-89E7-294125A87CEE}|HCMS.Application\\HCMS.Application.csproj|solutionrelative:hcms.application\\features\\jobs\\jobgrades\\queries\\draftquery\\jobgradequerybyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{872B2DD5-CFB7-4E47-8DE1-E7146C9998B3}|HCMS\\HCMS.API.csproj|d:\\new_hcms_by_me\\new_hcms\\hcms\\hcms\\hcms\\controllers\\jobcontroller\\jobcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{872B2DD5-CFB7-4E47-8DE1-E7146C9998B3}|HCMS\\HCMS.API.csproj|solutionrelative:hcms\\controllers\\jobcontroller\\jobcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\AppData\\Local\\Temp\\.vsdbgsrc\\89212dcd2f3257a3e3eec5938d09a0833888ece5c501afa26d6bce46396c248c\\ControllerActionInvoker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{872B2DD5-CFB7-4E47-8DE1-E7146C9998B3}|HCMS\\HCMS.API.csproj|d:\\new_hcms_by_me\\new_hcms\\hcms\\hcms\\hcms\\controllers\\benefit\\benefitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{872B2DD5-CFB7-4E47-8DE1-E7146C9998B3}|HCMS\\HCMS.API.csproj|solutionrelative:hcms\\controllers\\benefit\\benefitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{7EE44B97-59E4-4361-89E7-294125A87CEE}|HCMS.Application\\HCMS.Application.csproj|d:\\new_hcms_by_me\\new_hcms\\hcms\\hcms\\hcms.application\\features\\jobs\\jobgrades\\command\\submitcommand\\submitjobgradecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EE44B97-59E4-4361-89E7-294125A87CEE}|HCMS.Application\\HCMS.Application.csproj|solutionrelative:hcms.application\\features\\jobs\\jobgrades\\command\\submitcommand\\submitjobgradecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EE44B97-59E4-4361-89E7-294125A87CEE}|HCMS.Application\\HCMS.Application.csproj|d:\\new_hcms_by_me\\new_hcms\\hcms\\hcms\\hcms.application\\features\\benefit\\command\\updatebenefitcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EE44B97-59E4-4361-89E7-294125A87CEE}|HCMS.Application\\HCMS.Application.csproj|solutionrelative:hcms.application\\features\\benefit\\command\\updatebenefitcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EE44B97-59E4-4361-89E7-294125A87CEE}|HCMS.Application\\HCMS.Application.csproj|d:\\new_hcms_by_me\\new_hcms\\hcms\\hcms\\hcms.application\\features\\benefit\\command\\updatebenefitcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EE44B97-59E4-4361-89E7-294125A87CEE}|HCMS.Application\\HCMS.Application.csproj|solutionrelative:hcms.application\\features\\benefit\\command\\updatebenefitcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EE44B97-59E4-4361-89E7-294125A87CEE}|HCMS.Application\\HCMS.Application.csproj|d:\\new_hcms_by_me\\new_hcms\\hcms\\hcms\\hcms.application\\features\\jobs\\jobtitles\\addjobtitlecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EE44B97-59E4-4361-89E7-294125A87CEE}|HCMS.Application\\HCMS.Application.csproj|solutionrelative:hcms.application\\features\\jobs\\jobtitles\\addjobtitlecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EE44B97-59E4-4361-89E7-294125A87CEE}|HCMS.Application\\HCMS.Application.csproj|d:\\new_hcms_by_me\\new_hcms\\hcms\\hcms\\hcms.application\\features\\jobs\\jobgrades\\command\\approvedcommand\\approvejobgradecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EE44B97-59E4-4361-89E7-294125A87CEE}|HCMS.Application\\HCMS.Application.csproj|solutionrelative:hcms.application\\features\\jobs\\jobgrades\\command\\approvedcommand\\approvejobgradecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EE44B97-59E4-4361-89E7-294125A87CEE}|HCMS.Application\\HCMS.Application.csproj|d:\\new_hcms_by_me\\new_hcms\\hcms\\hcms\\hcms.application\\features\\jobs\\jobgrades\\command\\rejectecommand\\rejectjobgradecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EE44B97-59E4-4361-89E7-294125A87CEE}|HCMS.Application\\HCMS.Application.csproj|solutionrelative:hcms.application\\features\\jobs\\jobgrades\\command\\rejectecommand\\rejectjobgradecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EE44B97-59E4-4361-89E7-294125A87CEE}|HCMS.Application\\HCMS.Application.csproj|d:\\new_hcms_by_me\\new_hcms\\hcms\\hcms\\hcms.application\\features\\jobs\\jobgrades\\command\\createcommand\\addjobgradecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EE44B97-59E4-4361-89E7-294125A87CEE}|HCMS.Application\\HCMS.Application.csproj|solutionrelative:hcms.application\\features\\jobs\\jobgrades\\command\\createcommand\\addjobgradecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EE44B97-59E4-4361-89E7-294125A87CEE}|HCMS.Application\\HCMS.Application.csproj|d:\\new_hcms_by_me\\new_hcms\\hcms\\hcms\\hcms.application\\features\\jobs\\jobgrades\\command\\createcommand\\addjobgradecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EE44B97-59E4-4361-89E7-294125A87CEE}|HCMS.Application\\HCMS.Application.csproj|solutionrelative:hcms.application\\features\\jobs\\jobgrades\\command\\createcommand\\addjobgradecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{872B2DD5-CFB7-4E47-8DE1-E7146C9998B3}|HCMS\\HCMS.API.csproj|d:\\new_hcms_by_me\\new_hcms\\hcms\\hcms\\hcms\\controllers\\lookupcontroller\\lookupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{872B2DD5-CFB7-4E47-8DE1-E7146C9998B3}|HCMS\\HCMS.API.csproj|solutionrelative:hcms\\controllers\\lookupcontroller\\lookupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EE44B97-59E4-4361-89E7-294125A87CEE}|HCMS.Application\\HCMS.Application.csproj|d:\\new_hcms_by_me\\new_hcms\\hcms\\hcms\\hcms.application\\features\\jobs\\jobgrades\\command\\updatecommand\\jobgradeupdatecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EE44B97-59E4-4361-89E7-294125A87CEE}|HCMS.Application\\HCMS.Application.csproj|solutionrelative:hcms.application\\features\\jobs\\jobgrades\\command\\updatecommand\\jobgradeupdatecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\AppData\\Local\\Temp\\.vsdbgsrc\\5cbea72537ce83ad8d2e94cdf08acbe1b5b9680728551f045509cd93ffd44716\\ValueTask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7EE44B97-59E4-4361-89E7-294125A87CEE}|HCMS.Application\\HCMS.Application.csproj|d:\\new_hcms_by_me\\new_hcms\\hcms\\hcms\\hcms.application\\features\\benefit\\queries\\getbenefitbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7EE44B97-59E4-4361-89E7-294125A87CEE}|HCMS.Application\\HCMS.Application.csproj|solutionrelative:hcms.application\\features\\benefit\\queries\\getbenefitbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\node_modules\\formik\\dist\\connect.d.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:node_modules\\formik\\dist\\connect.d.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC7F655F-8D1C-416D-95D6-52EB53F74718}|HCMS.Domain\\HCMS.Domain.csproj|d:\\new_hcms_by_me\\new_hcms\\hcms\\hcms\\hcms.domain\\job\\jobgrade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC7F655F-8D1C-416D-95D6-52EB53F74718}|HCMS.Domain\\HCMS.Domain.csproj|solutionrelative:hcms.domain\\job\\jobgrade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EE44B97-59E4-4361-89E7-294125A87CEE}|HCMS.Application\\HCMS.Application.csproj|d:\\new_hcms_by_me\\new_hcms\\hcms\\hcms\\hcms.application\\features\\jobs\\jobgrades\\models\\jobgradedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EE44B97-59E4-4361-89E7-294125A87CEE}|HCMS.Application\\HCMS.Application.csproj|solutionrelative:hcms.application\\features\\jobs\\jobgrades\\models\\jobgradedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EE44B97-59E4-4361-89E7-294125A87CEE}|HCMS.Application\\HCMS.Application.csproj|d:\\new_hcms_by_me\\new_hcms\\hcms\\hcms\\hcms.application\\features\\benefit\\model\\benefitdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EE44B97-59E4-4361-89E7-294125A87CEE}|HCMS.Application\\HCMS.Application.csproj|solutionrelative:hcms.application\\features\\benefit\\model\\benefitdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EE44B97-59E4-4361-89E7-294125A87CEE}|HCMS.Application\\HCMS.Application.csproj|d:\\new_hcms_by_me\\new_hcms\\hcms\\hcms\\hcms.application\\features\\jobs\\jobgrades\\queries\\draftquery\\getjobgradequeryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EE44B97-59E4-4361-89E7-294125A87CEE}|HCMS.Application\\HCMS.Application.csproj|solutionrelative:hcms.application\\features\\jobs\\jobgrades\\queries\\draftquery\\getjobgradequeryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EE44B97-59E4-4361-89E7-294125A87CEE}|HCMS.Application\\HCMS.Application.csproj|d:\\new_hcms_by_me\\new_hcms\\hcms\\hcms\\hcms.application\\features\\benefit\\command\\createbenefitcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EE44B97-59E4-4361-89E7-294125A87CEE}|HCMS.Application\\HCMS.Application.csproj|solutionrelative:hcms.application\\features\\benefit\\command\\createbenefitcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EE44B97-59E4-4361-89E7-294125A87CEE}|HCMS.Application\\HCMS.Application.csproj|d:\\new_hcms_by_me\\new_hcms\\hcms\\hcms\\hcms.application\\features\\jobs\\jobgrades\\command\\updatecommand\\jobgradeupdatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EE44B97-59E4-4361-89E7-294125A87CEE}|HCMS.Application\\HCMS.Application.csproj|solutionrelative:hcms.application\\features\\jobs\\jobgrades\\command\\updatecommand\\jobgradeupdatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC7F655F-8D1C-416D-95D6-52EB53F74718}|HCMS.Domain\\HCMS.Domain.csproj|d:\\new_hcms_by_me\\new_hcms\\hcms\\hcms\\hcms.domain\\enum\\jobgradeenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC7F655F-8D1C-416D-95D6-52EB53F74718}|HCMS.Domain\\HCMS.Domain.csproj|solutionrelative:hcms.domain\\enum\\jobgradeenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\AppData\\Local\\SourceServer\\01d4279d9b55f9405c711f95e2861b69d547bfbdf01034d682f778369f06fee4\\src\\MediatR\\Mediator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EE44B97-59E4-4361-89E7-294125A87CEE}|HCMS.Application\\HCMS.Application.csproj|d:\\new_hcms_by_me\\new_hcms\\hcms\\hcms\\hcms.application\\features\\benefit\\command\\createbenefitcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EE44B97-59E4-4361-89E7-294125A87CEE}|HCMS.Application\\HCMS.Application.csproj|solutionrelative:hcms.application\\features\\benefit\\command\\createbenefitcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS.Persistance\\Migrations\\20241115074031_work.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HCMS.Persistance\\Migrations\\20241115074031_work.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC7F655F-8D1C-416D-95D6-52EB53F74718}|HCMS.Domain\\HCMS.Domain.csproj|d:\\new_hcms_by_me\\new_hcms\\hcms\\hcms\\hcms.domain\\enum\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC7F655F-8D1C-416D-95D6-52EB53F74718}|HCMS.Domain\\HCMS.Domain.csproj|solutionrelative:hcms.domain\\enum\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7EE44B97-59E4-4361-89E7-294125A87CEE}|HCMS.Application\\HCMS.Application.csproj|d:\\new_hcms_by_me\\new_hcms\\hcms\\hcms\\hcms.application\\features\\benefit\\queries\\getbenefitqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -21,10 +134,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{EC7F655F-8D1C-416D-95D6-52EB53F74718}|HCMS.Domain\\HCMS.Domain.csproj|d:\\new_hcms_by_me\\new_hcms\\hcms\\hcms\\hcms.domain\\enum\\benefittype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EC7F655F-8D1C-416D-95D6-52EB53F74718}|HCMS.Domain\\HCMS.Domain.csproj|solutionrelative:hcms.domain\\enum\\benefittype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7EE44B97-59E4-4361-89E7-294125A87CEE}|HCMS.Application\\HCMS.Application.csproj|d:\\new_hcms_by_me\\new_hcms\\hcms\\hcms\\hcms.application\\features\\benefit\\model\\benefitdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7EE44B97-59E4-4361-89E7-294125A87CEE}|HCMS.Application\\HCMS.Application.csproj|solutionrelative:hcms.application\\features\\benefit\\model\\benefitdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EC7F655F-8D1C-416D-95D6-52EB53F74718}|HCMS.Domain\\HCMS.Domain.csproj|d:\\new_hcms_by_me\\new_hcms\\hcms\\hcms\\hcms.domain\\employee\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -67,18 +176,6 @@
       "RelativeMoniker": "D:0:0:{872B2DD5-CFB7-4E47-8DE1-E7146C9998B3}|HCMS\\HCMS.API.csproj|solutionrelative:hcms\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7EE44B97-59E4-4361-89E7-294125A87CEE}|HCMS.Application\\HCMS.Application.csproj|d:\\new_hcms_by_me\\new_hcms\\hcms\\hcms\\hcms.application\\features\\benefit\\command\\updatebenefitcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7EE44B97-59E4-4361-89E7-294125A87CEE}|HCMS.Application\\HCMS.Application.csproj|solutionrelative:hcms.application\\features\\benefit\\command\\updatebenefitcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7EE44B97-59E4-4361-89E7-294125A87CEE}|HCMS.Application\\HCMS.Application.csproj|d:\\new_hcms_by_me\\new_hcms\\hcms\\hcms\\hcms.application\\features\\benefit\\command\\updatebenefitcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7EE44B97-59E4-4361-89E7-294125A87CEE}|HCMS.Application\\HCMS.Application.csproj|solutionrelative:hcms.application\\features\\benefit\\command\\updatebenefitcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7EE44B97-59E4-4361-89E7-294125A87CEE}|HCMS.Application\\HCMS.Application.csproj|d:\\new_hcms_by_me\\new_hcms\\hcms\\hcms\\hcms.application\\features\\benefit\\command\\createbenefitcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7EE44B97-59E4-4361-89E7-294125A87CEE}|HCMS.Application\\HCMS.Application.csproj|solutionrelative:hcms.application\\features\\benefit\\command\\createbenefitcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{872B2DD5-CFB7-4E47-8DE1-E7146C9998B3}|HCMS\\HCMS.API.csproj|d:\\new_hcms_by_me\\new_hcms\\hcms\\hcms\\hcms\\dto\\lookupdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{872B2DD5-CFB7-4E47-8DE1-E7146C9998B3}|HCMS\\HCMS.API.csproj|solutionrelative:hcms\\dto\\lookupdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -103,14 +200,6 @@
       "RelativeMoniker": "D:0:0:{872B2DD5-CFB7-4E47-8DE1-E7146C9998B3}|HCMS\\HCMS.API.csproj|solutionrelative:hcms\\controllers\\businessunit\\businessunitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7EE44B97-59E4-4361-89E7-294125A87CEE}|HCMS.Application\\HCMS.Application.csproj|d:\\new_hcms_by_me\\new_hcms\\hcms\\hcms\\hcms.application\\features\\benefit\\command\\createbenefitcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7EE44B97-59E4-4361-89E7-294125A87CEE}|HCMS.Application\\HCMS.Application.csproj|solutionrelative:hcms.application\\features\\benefit\\command\\createbenefitcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7EE44B97-59E4-4361-89E7-294125A87CEE}|HCMS.Application\\HCMS.Application.csproj|d:\\new_hcms_by_me\\new_hcms\\hcms\\hcms\\hcms.application\\features\\jobs\\jobtitles\\addjobtitlecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7EE44B97-59E4-4361-89E7-294125A87CEE}|HCMS.Application\\HCMS.Application.csproj|solutionrelative:hcms.application\\features\\jobs\\jobtitles\\addjobtitlecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7EE44B97-59E4-4361-89E7-294125A87CEE}|HCMS.Application\\HCMS.Application.csproj|d:\\new_hcms_by_me\\new_hcms\\hcms\\hcms\\hcms.application\\features\\jobs\\jobcatagories\\addjobcatagorycommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7EE44B97-59E4-4361-89E7-294125A87CEE}|HCMS.Application\\HCMS.Application.csproj|solutionrelative:hcms.application\\features\\jobs\\jobcatagories\\addjobcatagorycommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -125,10 +214,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{7EE44B97-59E4-4361-89E7-294125A87CEE}|HCMS.Application\\HCMS.Application.csproj|d:\\new_hcms_by_me\\new_hcms\\hcms\\hcms\\hcms.application\\features\\businessunits\\models\\businessunitdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7EE44B97-59E4-4361-89E7-294125A87CEE}|HCMS.Application\\HCMS.Application.csproj|solutionrelative:hcms.application\\features\\businessunits\\models\\businessunitdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS.Persistance\\Migrations\\20241108102835_init2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HCMS.Persistance\\Migrations\\20241108102835_init2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0DC12041-3227-4497-AE8B-B586C6AC7576}|HCMS.Service\\HCMS.Service.csproj|d:\\new_hcms_by_me\\new_hcms\\hcms\\hcms\\hcms.service\\dataservice\\idataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -161,18 +246,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{7EE44B97-59E4-4361-89E7-294125A87CEE}|HCMS.Application\\HCMS.Application.csproj|d:\\new_hcms_by_me\\new_hcms\\hcms\\hcms\\hcms.application\\features\\jobs\\jobcatagories\\getjobcatagoryqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7EE44B97-59E4-4361-89E7-294125A87CEE}|HCMS.Application\\HCMS.Application.csproj|solutionrelative:hcms.application\\features\\jobs\\jobcatagories\\getjobcatagoryqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{872B2DD5-CFB7-4E47-8DE1-E7146C9998B3}|HCMS\\HCMS.API.csproj|d:\\new_hcms_by_me\\new_hcms\\hcms\\hcms\\hcms\\controllers\\jobcontroller\\jobcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{872B2DD5-CFB7-4E47-8DE1-E7146C9998B3}|HCMS\\HCMS.API.csproj|solutionrelative:hcms\\controllers\\jobcontroller\\jobcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7EE44B97-59E4-4361-89E7-294125A87CEE}|HCMS.Application\\HCMS.Application.csproj|d:\\new_hcms_by_me\\new_hcms\\hcms\\hcms\\hcms.application\\features\\jobs\\jobgrades\\addjobgradecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7EE44B97-59E4-4361-89E7-294125A87CEE}|HCMS.Application\\HCMS.Application.csproj|solutionrelative:hcms.application\\features\\jobs\\jobgrades\\addjobgradecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7EE44B97-59E4-4361-89E7-294125A87CEE}|HCMS.Application\\HCMS.Application.csproj|d:\\new_hcms_by_me\\new_hcms\\hcms\\hcms\\hcms.application\\features\\jobs\\jobgrades\\addjobgradecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7EE44B97-59E4-4361-89E7-294125A87CEE}|HCMS.Application\\HCMS.Application.csproj|solutionrelative:hcms.application\\features\\jobs\\jobgrades\\addjobgradecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{55645186-B3BD-4067-AB5F-4808D7639480}|HCMS.Persistance\\HCMS.Persistance.csproj|d:\\new_hcms_by_me\\new_hcms\\hcms\\hcms\\hcms.persistance\\configuration\\employeeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -263,6 +336,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{872B2DD5-CFB7-4E47-8DE1-E7146C9998B3}|HCMS\\HCMS.API.csproj|d:\\new_hcms_by_me\\new_hcms\\hcms\\hcms\\hcms\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{872B2DD5-CFB7-4E47-8DE1-E7146C9998B3}|HCMS\\HCMS.API.csproj|solutionrelative:hcms\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55645186-B3BD-4067-AB5F-4808D7639480}|HCMS.Persistance\\HCMS.Persistance.csproj|d:\\new_hcms_by_me\\new_hcms\\hcms\\hcms\\hcms.persistance\\migrations\\20241108102835_init2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55645186-B3BD-4067-AB5F-4808D7639480}|HCMS.Persistance\\HCMS.Persistance.csproj|solutionrelative:hcms.persistance\\migrations\\20241108102835_init2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS.Domain\\Enum\\JobGradeStatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HCMS.Domain\\Enum\\JobGradeStatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -272,7 +353,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 16,
+          "SelectedChildIndex": 15,
           "Children": [
             {
               "$type": "Bookmark",
@@ -321,80 +402,405 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "BenefitType.cs",
-              "DocumentMoniker": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS.Domain\\Enum\\BenefitType.cs",
-              "RelativeDocumentMoniker": "HCMS.Domain\\Enum\\BenefitType.cs",
-              "ToolTip": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS.Domain\\Enum\\BenefitType.cs",
-              "RelativeToolTip": "HCMS.Domain\\Enum\\BenefitType.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAUAAAA",
+              "Title": "JobController.cs",
+              "DocumentMoniker": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS\\Controllers\\JobController\\JobController.cs",
+              "RelativeDocumentMoniker": "HCMS\\Controllers\\JobController\\JobController.cs",
+              "ToolTip": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS\\Controllers\\JobController\\JobController.cs",
+              "RelativeToolTip": "HCMS\\Controllers\\JobController\\JobController.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAswEAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T10:16:42.351Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Benefits.cs",
-              "DocumentMoniker": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS.Domain\\Benefit\\Benefits.cs",
-              "RelativeDocumentMoniker": "HCMS.Domain\\Benefit\\Benefits.cs",
-              "ToolTip": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS.Domain\\Benefit\\Benefits.cs",
-              "RelativeToolTip": "HCMS.Domain\\Benefit\\Benefits.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T10:14:05.961Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "GetBenefitByIdQueryHandler.cs",
-              "DocumentMoniker": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS.Application\\Features\\Benefit\\Queries\\GetBenefitByIdQueryHandler.cs",
-              "RelativeDocumentMoniker": "HCMS.Application\\Features\\Benefit\\Queries\\GetBenefitByIdQueryHandler.cs",
-              "ToolTip": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS.Application\\Features\\Benefit\\Queries\\GetBenefitByIdQueryHandler.cs",
-              "RelativeToolTip": "HCMS.Application\\Features\\Benefit\\Queries\\GetBenefitByIdQueryHandler.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAA9wBkAAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T13:06:58.299Z",
+              "WhenOpened": "2024-11-07T09:07:25.38Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "JobTitle.cs",
-              "DocumentMoniker": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS.Domain\\Job\\JobTitle.cs",
-              "RelativeDocumentMoniker": "HCMS.Domain\\Job\\JobTitle.cs",
-              "ToolTip": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS.Domain\\Job\\JobTitle.cs",
-              "RelativeToolTip": "HCMS.Domain\\Job\\JobTitle.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAASAAAA",
+              "DocumentIndex": 3,
+              "Title": "JobGradeQueryByIDHandler.cs",
+              "DocumentMoniker": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS.Application\\Features\\Jobs\\JobGrades\\Queries\\DraftQuery\\JobGradeQueryByIDHandler.cs",
+              "RelativeDocumentMoniker": "HCMS.Application\\Features\\Jobs\\JobGrades\\Queries\\DraftQuery\\JobGradeQueryByIDHandler.cs",
+              "ToolTip": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS.Application\\Features\\Jobs\\JobGrades\\Queries\\DraftQuery\\JobGradeQueryByIDHandler.cs",
+              "RelativeToolTip": "HCMS.Application\\Features\\Jobs\\JobGrades\\Queries\\DraftQuery\\JobGradeQueryByIDHandler.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAADwvxgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T10:40:13.079Z"
+              "WhenOpened": "2024-11-15T10:02:16.068Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "JobTitleDto.cs",
-              "DocumentMoniker": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS.Application\\Features\\Jobs\\JobTitles\\Models\\JobTitleDto.cs",
-              "RelativeDocumentMoniker": "HCMS.Application\\Features\\Jobs\\JobTitles\\Models\\JobTitleDto.cs",
-              "ToolTip": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS.Application\\Features\\Jobs\\JobTitles\\Models\\JobTitleDto.cs",
-              "RelativeToolTip": "HCMS.Application\\Features\\Jobs\\JobTitles\\Models\\JobTitleDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAhAAAA",
+              "DocumentIndex": 2,
+              "Title": "SubmitJobGradeCommandHandler.cs",
+              "DocumentMoniker": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS.Application\\Features\\Jobs\\JobGrades\\Command\\SubmitCommand\\SubmitJobGradeCommandHandler.cs",
+              "RelativeDocumentMoniker": "HCMS.Application\\Features\\Jobs\\JobGrades\\Command\\SubmitCommand\\SubmitJobGradeCommandHandler.cs",
+              "ToolTip": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS.Application\\Features\\Jobs\\JobGrades\\Command\\SubmitCommand\\SubmitJobGradeCommandHandler.cs",
+              "RelativeToolTip": "HCMS.Application\\Features\\Jobs\\JobGrades\\Command\\SubmitCommand\\SubmitJobGradeCommandHandler.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAUwBUAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T10:51:36.966Z"
+              "WhenOpened": "2024-11-16T08:47:45.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApproveJobGradeCommandHandler.cs",
+              "DocumentMoniker": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS.Application\\Features\\Jobs\\JobGrades\\Command\\ApprovedCommand\\ApproveJobGradeCommandHandler.cs",
+              "RelativeDocumentMoniker": "HCMS.Application\\Features\\Jobs\\JobGrades\\Command\\ApprovedCommand\\ApproveJobGradeCommandHandler.cs",
+              "ToolTip": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS.Application\\Features\\Jobs\\JobGrades\\Command\\ApprovedCommand\\ApproveJobGradeCommandHandler.cs",
+              "RelativeToolTip": "HCMS.Application\\Features\\Jobs\\JobGrades\\Command\\ApprovedCommand\\ApproveJobGradeCommandHandler.cs",
+              "ViewState": "AQIAAAgAAAAgMzMzMzMrwBcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T08:49:21.165Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "RejectJobGradeCommandHandler.cs",
+              "DocumentMoniker": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS.Application\\Features\\Jobs\\JobGrades\\Command\\RejecteCommand\\RejectJobGradeCommandHandler.cs",
+              "RelativeDocumentMoniker": "HCMS.Application\\Features\\Jobs\\JobGrades\\Command\\RejecteCommand\\RejectJobGradeCommandHandler.cs",
+              "ToolTip": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS.Application\\Features\\Jobs\\JobGrades\\Command\\RejecteCommand\\RejectJobGradeCommandHandler.cs",
+              "RelativeToolTip": "HCMS.Application\\Features\\Jobs\\JobGrades\\Command\\RejecteCommand\\RejectJobGradeCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T08:48:24.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ControllerActionInvoker.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\AppData\\Local\\Temp\\.vsdbgsrc\\89212dcd2f3257a3e3eec5938d09a0833888ece5c501afa26d6bce46396c248c\\ControllerActionInvoker.cs",
+              "ToolTip": "C:\\Users\\Administrator\\AppData\\Local\\Temp\\.vsdbgsrc\\89212dcd2f3257a3e3eec5938d09a0833888ece5c501afa26d6bce46396c248c\\ControllerActionInvoker.cs [Read Only]",
+              "ViewState": "AQIAANcBAAAAAAAAAAAUwOMBAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T11:05:24.133Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UpdateBenefitCommand.cs",
+              "DocumentMoniker": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS.Application\\Features\\Benefit\\Command\\UpdateBenefitCommand.cs",
+              "RelativeDocumentMoniker": "HCMS.Application\\Features\\Benefit\\Command\\UpdateBenefitCommand.cs",
+              "ToolTip": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS.Application\\Features\\Benefit\\Command\\UpdateBenefitCommand.cs",
+              "RelativeToolTip": "HCMS.Application\\Features\\Benefit\\Command\\UpdateBenefitCommand.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T13:57:36.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UpdateBenefitCommandHandler.cs",
+              "DocumentMoniker": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS.Application\\Features\\Benefit\\Command\\UpdateBenefitCommandHandler.cs",
+              "RelativeDocumentMoniker": "HCMS.Application\\Features\\Benefit\\Command\\UpdateBenefitCommandHandler.cs",
+              "ToolTip": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS.Application\\Features\\Benefit\\Command\\UpdateBenefitCommandHandler.cs",
+              "RelativeToolTip": "HCMS.Application\\Features\\Benefit\\Command\\UpdateBenefitCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T12:44:41.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SubmitJobGradeCommand.cs",
+              "DocumentMoniker": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS.Application\\Features\\Jobs\\JobGrades\\Command\\SubmitCommand\\SubmitJobGradeCommand.cs",
+              "RelativeDocumentMoniker": "HCMS.Application\\Features\\Jobs\\JobGrades\\Command\\SubmitCommand\\SubmitJobGradeCommand.cs",
+              "ToolTip": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS.Application\\Features\\Jobs\\JobGrades\\Command\\SubmitCommand\\SubmitJobGradeCommand.cs",
+              "RelativeToolTip": "HCMS.Application\\Features\\Jobs\\JobGrades\\Command\\SubmitCommand\\SubmitJobGradeCommand.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T08:47:19.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "BenefitController.cs",
               "DocumentMoniker": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS\\Controllers\\Benefit\\BenefitController.cs",
               "RelativeDocumentMoniker": "HCMS\\Controllers\\Benefit\\BenefitController.cs",
               "ToolTip": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS\\Controllers\\Benefit\\BenefitController.cs",
               "RelativeToolTip": "HCMS\\Controllers\\Benefit\\BenefitController.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAUwBQAAAAIAAAA",
+              "ViewState": "AQIAADAAAAAAAAAAAAAowCkAAABIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-08T11:17:59.331Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
+              "Title": "AddJobTitleCommandHandler.cs",
+              "DocumentMoniker": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS.Application\\Features\\Jobs\\JobTitles\\AddJobTitleCommandHandler.cs",
+              "RelativeDocumentMoniker": "HCMS.Application\\Features\\Jobs\\JobTitles\\AddJobTitleCommandHandler.cs",
+              "ToolTip": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS.Application\\Features\\Jobs\\JobTitles\\AddJobTitleCommandHandler.cs",
+              "RelativeToolTip": "HCMS.Application\\Features\\Jobs\\JobTitles\\AddJobTitleCommandHandler.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T11:16:38.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApproveJobGradeCommand.cs",
+              "DocumentMoniker": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS.Application\\Features\\Jobs\\JobGrades\\Command\\ApprovedCommand\\ApproveJobGradeCommand.cs",
+              "RelativeDocumentMoniker": "HCMS.Application\\Features\\Jobs\\JobGrades\\Command\\ApprovedCommand\\ApproveJobGradeCommand.cs",
+              "ToolTip": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS.Application\\Features\\Jobs\\JobGrades\\Command\\ApprovedCommand\\ApproveJobGradeCommand.cs",
+              "RelativeToolTip": "HCMS.Application\\Features\\Jobs\\JobGrades\\Command\\ApprovedCommand\\ApproveJobGradeCommand.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T08:48:57.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RejectJobGradeCommand.cs",
+              "DocumentMoniker": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS.Application\\Features\\Jobs\\JobGrades\\Command\\RejecteCommand\\RejectJobGradeCommand.cs",
+              "RelativeDocumentMoniker": "HCMS.Application\\Features\\Jobs\\JobGrades\\Command\\RejecteCommand\\RejectJobGradeCommand.cs",
+              "ToolTip": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS.Application\\Features\\Jobs\\JobGrades\\Command\\RejecteCommand\\RejectJobGradeCommand.cs",
+              "RelativeToolTip": "HCMS.Application\\Features\\Jobs\\JobGrades\\Command\\RejecteCommand\\RejectJobGradeCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T08:48:04.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AddJobGradeCommand.cs",
+              "DocumentMoniker": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS.Application\\Features\\Jobs\\JobGrades\\Command\\CreateCommand\\AddJobGradeCommand.cs",
+              "RelativeDocumentMoniker": "HCMS.Application\\Features\\Jobs\\JobGrades\\Command\\CreateCommand\\AddJobGradeCommand.cs",
+              "ToolTip": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS.Application\\Features\\Jobs\\JobGrades\\Command\\CreateCommand\\AddJobGradeCommand.cs",
+              "RelativeToolTip": "HCMS.Application\\Features\\Jobs\\JobGrades\\Command\\CreateCommand\\AddJobGradeCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T11:01:35.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AddJobGradeCommandHandler.cs",
+              "DocumentMoniker": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS.Application\\Features\\Jobs\\JobGrades\\Command\\CreateCommand\\AddJobGradeCommandHandler.cs",
+              "RelativeDocumentMoniker": "HCMS.Application\\Features\\Jobs\\JobGrades\\Command\\CreateCommand\\AddJobGradeCommandHandler.cs",
+              "ToolTip": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS.Application\\Features\\Jobs\\JobGrades\\Command\\CreateCommand\\AddJobGradeCommandHandler.cs",
+              "RelativeToolTip": "HCMS.Application\\Features\\Jobs\\JobGrades\\Command\\CreateCommand\\AddJobGradeCommandHandler.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowBwAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T11:01:37.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "JobGradeDto.cs",
+              "DocumentMoniker": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS.Application\\Features\\Jobs\\JobGrades\\Models\\JobGradeDto.cs",
+              "RelativeDocumentMoniker": "HCMS.Application\\Features\\Jobs\\JobGrades\\Models\\JobGradeDto.cs",
+              "ToolTip": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS.Application\\Features\\Jobs\\JobGrades\\Models\\JobGradeDto.cs",
+              "RelativeToolTip": "HCMS.Application\\Features\\Jobs\\JobGrades\\Models\\JobGradeDto.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T10:18:28.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "JobGradeUpdateCommandHandler.cs",
+              "DocumentMoniker": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS.Application\\Features\\Jobs\\JobGrades\\Command\\UpdateCommand\\JobGradeUpdateCommandHandler.cs",
+              "RelativeDocumentMoniker": "HCMS.Application\\Features\\Jobs\\JobGrades\\Command\\UpdateCommand\\JobGradeUpdateCommandHandler.cs",
+              "ToolTip": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS.Application\\Features\\Jobs\\JobGrades\\Command\\UpdateCommand\\JobGradeUpdateCommandHandler.cs",
+              "RelativeToolTip": "HCMS.Application\\Features\\Jobs\\JobGrades\\Command\\UpdateCommand\\JobGradeUpdateCommandHandler.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAADwvx0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T08:15:41.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "JobGradeStatus.cs",
+              "DocumentMoniker": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS.Domain\\Enum\\JobGradeStatus.cs",
+              "RelativeDocumentMoniker": "HCMS.Domain\\Enum\\JobGradeStatus.cs",
+              "ToolTip": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS.Domain\\Enum\\JobGradeStatus.cs",
+              "RelativeToolTip": "HCMS.Domain\\Enum\\JobGradeStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T07:29:27.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LookupController.cs",
+              "DocumentMoniker": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS\\Controllers\\LookupController\\LookupController.cs",
+              "RelativeDocumentMoniker": "HCMS\\Controllers\\LookupController\\LookupController.cs",
+              "ToolTip": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS\\Controllers\\LookupController\\LookupController.cs",
+              "RelativeToolTip": "HCMS\\Controllers\\LookupController\\LookupController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAnwBUAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T10:52:54.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GetBenefitByIdQueryHandler.cs",
+              "DocumentMoniker": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS.Application\\Features\\Benefit\\Queries\\GetBenefitByIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "HCMS.Application\\Features\\Benefit\\Queries\\GetBenefitByIdQueryHandler.cs",
+              "ToolTip": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS.Application\\Features\\Benefit\\Queries\\GetBenefitByIdQueryHandler.cs",
+              "RelativeToolTip": "HCMS.Application\\Features\\Benefit\\Queries\\GetBenefitByIdQueryHandler.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAiwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T13:06:58.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ValueTask.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\AppData\\Local\\Temp\\.vsdbgsrc\\5cbea72537ce83ad8d2e94cdf08acbe1b5b9680728551f045509cd93ffd44716\\ValueTask.cs",
+              "ToolTip": "C:\\Users\\Administrator\\AppData\\Local\\Temp\\.vsdbgsrc\\5cbea72537ce83ad8d2e94cdf08acbe1b5b9680728551f045509cd93ffd44716\\ValueTask.cs [Read Only]",
+              "ViewState": "AQIAANcBAAAAAAAAAAAUwOMBAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T11:05:21.067Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "JobGrade.cs",
+              "DocumentMoniker": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS.Domain\\Job\\JobGrade.cs",
+              "RelativeDocumentMoniker": "HCMS.Domain\\Job\\JobGrade.cs",
+              "ToolTip": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS.Domain\\Job\\JobGrade.cs",
+              "RelativeToolTip": "HCMS.Domain\\Job\\JobGrade.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAwA8AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T05:55:27.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "BenefitDto.cs",
+              "DocumentMoniker": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS.Application\\Features\\Benefit\\Model\\BenefitDto.cs",
+              "RelativeDocumentMoniker": "HCMS.Application\\Features\\Benefit\\Model\\BenefitDto.cs",
+              "ToolTip": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS.Application\\Features\\Benefit\\Model\\BenefitDto.cs",
+              "RelativeToolTip": "HCMS.Application\\Features\\Benefit\\Model\\BenefitDto.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAwA8AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T10:32:59.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "connect.d.ts",
+              "DocumentMoniker": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\node_modules\\formik\\dist\\connect.d.ts",
+              "RelativeDocumentMoniker": "node_modules\\formik\\dist\\connect.d.ts",
+              "ToolTip": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\node_modules\\formik\\dist\\connect.d.ts",
+              "RelativeToolTip": "node_modules\\formik\\dist\\connect.d.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-11-15T10:53:09.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "GetJobGradeQueryHandler.cs",
+              "DocumentMoniker": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS.Application\\Features\\Jobs\\JobGrades\\Queries\\DraftQuery\\GetJobGradeQueryHandler.cs",
+              "RelativeDocumentMoniker": "HCMS.Application\\Features\\Jobs\\JobGrades\\Queries\\DraftQuery\\GetJobGradeQueryHandler.cs",
+              "ToolTip": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS.Application\\Features\\Jobs\\JobGrades\\Queries\\DraftQuery\\GetJobGradeQueryHandler.cs",
+              "RelativeToolTip": "HCMS.Application\\Features\\Jobs\\JobGrades\\Queries\\DraftQuery\\GetJobGradeQueryHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAkwAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T07:58:45.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CreateBenefitCommandHandler.cs",
+              "DocumentMoniker": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS.Application\\Features\\Benefit\\Command\\CreateBenefitCommandHandler.cs",
+              "RelativeDocumentMoniker": "HCMS.Application\\Features\\Benefit\\Command\\CreateBenefitCommandHandler.cs",
+              "ToolTip": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS.Application\\Features\\Benefit\\Command\\CreateBenefitCommandHandler.cs",
+              "RelativeToolTip": "HCMS.Application\\Features\\Benefit\\Command\\CreateBenefitCommandHandler.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABsAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T10:37:43.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "JobGradeUpdateCommand.cs",
+              "DocumentMoniker": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS.Application\\Features\\Jobs\\JobGrades\\Command\\UpdateCommand\\JobGradeUpdateCommand.cs",
+              "RelativeDocumentMoniker": "HCMS.Application\\Features\\Jobs\\JobGrades\\Command\\UpdateCommand\\JobGradeUpdateCommand.cs",
+              "ToolTip": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS.Application\\Features\\Jobs\\JobGrades\\Command\\UpdateCommand\\JobGradeUpdateCommand.cs",
+              "RelativeToolTip": "HCMS.Application\\Features\\Jobs\\JobGrades\\Command\\UpdateCommand\\JobGradeUpdateCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T08:10:37.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "JobGradeEnum.cs",
+              "DocumentMoniker": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS.Domain\\Enum\\JobGradeEnum.cs",
+              "RelativeDocumentMoniker": "HCMS.Domain\\Enum\\JobGradeEnum.cs",
+              "ToolTip": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS.Domain\\Enum\\JobGradeEnum.cs",
+              "RelativeToolTip": "HCMS.Domain\\Enum\\JobGradeEnum.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T08:55:48.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Mediator.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\AppData\\Local\\SourceServer\\01d4279d9b55f9405c711f95e2861b69d547bfbdf01034d682f778369f06fee4\\src\\MediatR\\Mediator.cs",
+              "ToolTip": "C:\\Users\\Administrator\\AppData\\Local\\SourceServer\\01d4279d9b55f9405c711f95e2861b69d547bfbdf01034d682f778369f06fee4\\src\\MediatR\\Mediator.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAkwDcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T08:46:57.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CreateBenefitCommand.cs",
+              "DocumentMoniker": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS.Application\\Features\\Benefit\\Command\\CreateBenefitCommand.cs",
+              "RelativeDocumentMoniker": "HCMS.Application\\Features\\Benefit\\Command\\CreateBenefitCommand.cs",
+              "ToolTip": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS.Application\\Features\\Benefit\\Command\\CreateBenefitCommand.cs",
+              "RelativeToolTip": "HCMS.Application\\Features\\Benefit\\Command\\CreateBenefitCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T10:37:12.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20241115074031_work.cs",
+              "DocumentMoniker": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS.Persistance\\Migrations\\20241115074031_work.cs",
+              "RelativeDocumentMoniker": "HCMS.Persistance\\Migrations\\20241115074031_work.cs",
+              "ToolTip": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS.Persistance\\Migrations\\20241115074031_work.cs",
+              "RelativeToolTip": "HCMS.Persistance\\Migrations\\20241115074031_work.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T07:40:32.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Gender.cs",
+              "DocumentMoniker": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS.Domain\\Enum\\Gender.cs",
+              "RelativeDocumentMoniker": "HCMS.Domain\\Enum\\Gender.cs",
+              "ToolTip": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS.Domain\\Enum\\Gender.cs",
+              "RelativeToolTip": "HCMS.Domain\\Enum\\Gender.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T07:29:38.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "GetBenefitQueryHandler.cs",
+              "DocumentMoniker": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS.Application\\Features\\Benefit\\Queries\\GetBenefitQueryHandler.cs",
+              "RelativeDocumentMoniker": "HCMS.Application\\Features\\Benefit\\Queries\\GetBenefitQueryHandler.cs",
+              "ToolTip": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS.Application\\Features\\Benefit\\Queries\\GetBenefitQueryHandler.cs",
+              "RelativeToolTip": "HCMS.Application\\Features\\Benefit\\Queries\\GetBenefitQueryHandler.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAYwBgAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T11:50:14.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
               "Title": "Employee.cs",
               "DocumentMoniker": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS.Domain\\Employee\\Employee.cs",
               "RelativeDocumentMoniker": "HCMS.Domain\\Employee\\Employee.cs",
@@ -406,7 +812,55 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 38,
+              "Title": "JobTitleDto.cs",
+              "DocumentMoniker": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS.Application\\Features\\Jobs\\JobTitles\\Models\\JobTitleDto.cs",
+              "RelativeDocumentMoniker": "HCMS.Application\\Features\\Jobs\\JobTitles\\Models\\JobTitleDto.cs",
+              "ToolTip": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS.Application\\Features\\Jobs\\JobTitles\\Models\\JobTitleDto.cs",
+              "RelativeToolTip": "HCMS.Application\\Features\\Jobs\\JobTitles\\Models\\JobTitleDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T10:51:36.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "JobTitle.cs",
+              "DocumentMoniker": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS.Domain\\Job\\JobTitle.cs",
+              "RelativeDocumentMoniker": "HCMS.Domain\\Job\\JobTitle.cs",
+              "ToolTip": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS.Domain\\Job\\JobTitle.cs",
+              "RelativeToolTip": "HCMS.Domain\\Job\\JobTitle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T10:40:13.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Benefits.cs",
+              "DocumentMoniker": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS.Domain\\Benefit\\Benefits.cs",
+              "RelativeDocumentMoniker": "HCMS.Domain\\Benefit\\Benefits.cs",
+              "ToolTip": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS.Domain\\Benefit\\Benefits.cs",
+              "RelativeToolTip": "HCMS.Domain\\Benefit\\Benefits.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T10:14:05.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "BenefitType.cs",
+              "DocumentMoniker": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS.Domain\\Enum\\BenefitType.cs",
+              "RelativeDocumentMoniker": "HCMS.Domain\\Enum\\BenefitType.cs",
+              "ToolTip": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS.Domain\\Enum\\BenefitType.cs",
+              "RelativeToolTip": "HCMS.Domain\\Enum\\BenefitType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T10:16:42.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
               "Title": "JobType.cs",
               "DocumentMoniker": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS.Domain\\Job\\JobType.cs",
               "RelativeDocumentMoniker": "HCMS.Domain\\Job\\JobType.cs",
@@ -418,19 +872,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "GetBenefitQueryHandler.cs",
-              "DocumentMoniker": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS.Application\\Features\\Benefit\\Queries\\GetBenefitQueryHandler.cs",
-              "RelativeDocumentMoniker": "HCMS.Application\\Features\\Benefit\\Queries\\GetBenefitQueryHandler.cs",
-              "ToolTip": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS.Application\\Features\\Benefit\\Queries\\GetBenefitQueryHandler.cs",
-              "RelativeToolTip": "HCMS.Application\\Features\\Benefit\\Queries\\GetBenefitQueryHandler.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAUwBwAAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T11:50:14.751Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 37,
               "Title": "GetJobTitleQueryHandler.cs",
               "DocumentMoniker": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS.Application\\Features\\Jobs\\JobTitles\\GetJobTitleQueryHandler.cs",
               "RelativeDocumentMoniker": "HCMS.Application\\Features\\Jobs\\JobTitles\\GetJobTitleQueryHandler.cs",
@@ -442,19 +884,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "BenefitDto.cs",
-              "DocumentMoniker": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS.Application\\Features\\Benefit\\Model\\BenefitDto.cs",
-              "RelativeDocumentMoniker": "HCMS.Application\\Features\\Benefit\\Model\\BenefitDto.cs",
-              "ToolTip": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS.Application\\Features\\Benefit\\Model\\BenefitDto.cs",
-              "RelativeToolTip": "HCMS.Application\\Features\\Benefit\\Model\\BenefitDto.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAwAkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T10:32:59.432Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 41,
               "Title": "Swaggerconfigurations.cs",
               "DocumentMoniker": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS\\Configurations\\Swaggerconfigurations.cs",
               "RelativeDocumentMoniker": "HCMS\\Configurations\\Swaggerconfigurations.cs",
@@ -466,7 +896,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 39,
               "Title": "launchSettings.json",
               "DocumentMoniker": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "HCMS\\Properties\\launchSettings.json",
@@ -478,7 +908,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 40,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS\\Program.cs",
               "RelativeDocumentMoniker": "HCMS\\Program.cs",
@@ -490,7 +920,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 42,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS\\appsettings.Development.json",
               "RelativeDocumentMoniker": "HCMS\\appsettings.Development.json",
@@ -502,7 +932,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 44,
               "Title": "LookupDto.cs",
               "DocumentMoniker": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS\\Dto\\LookupDto.cs",
               "RelativeDocumentMoniker": "HCMS\\Dto\\LookupDto.cs",
@@ -514,7 +944,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 43,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS\\appsettings.json",
               "RelativeDocumentMoniker": "HCMS\\appsettings.json",
@@ -526,43 +956,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "UpdateBenefitCommandHandler.cs",
-              "DocumentMoniker": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS.Application\\Features\\Benefit\\Command\\UpdateBenefitCommandHandler.cs",
-              "RelativeDocumentMoniker": "HCMS.Application\\Features\\Benefit\\Command\\UpdateBenefitCommandHandler.cs",
-              "ToolTip": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS.Application\\Features\\Benefit\\Command\\UpdateBenefitCommandHandler.cs",
-              "RelativeToolTip": "HCMS.Application\\Features\\Benefit\\Command\\UpdateBenefitCommandHandler.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAkwBAAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T12:44:41.916Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "UpdateBenefitCommand.cs",
-              "DocumentMoniker": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS.Application\\Features\\Benefit\\Command\\UpdateBenefitCommand.cs",
-              "RelativeDocumentMoniker": "HCMS.Application\\Features\\Benefit\\Command\\UpdateBenefitCommand.cs",
-              "ToolTip": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS.Application\\Features\\Benefit\\Command\\UpdateBenefitCommand.cs",
-              "RelativeToolTip": "HCMS.Application\\Features\\Benefit\\Command\\UpdateBenefitCommand.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T13:57:36.441Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "CreateBenefitCommand.cs",
-              "DocumentMoniker": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS.Application\\Features\\Benefit\\Command\\CreateBenefitCommand.cs",
-              "RelativeDocumentMoniker": "HCMS.Application\\Features\\Benefit\\Command\\CreateBenefitCommand.cs",
-              "ToolTip": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS.Application\\Features\\Benefit\\Command\\CreateBenefitCommand.cs",
-              "RelativeToolTip": "HCMS.Application\\Features\\Benefit\\Command\\CreateBenefitCommand.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAAABIAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T10:37:12.128Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 45,
               "Title": "EmployeeProfileController.cs",
               "DocumentMoniker": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS\\Controllers\\EmployeeController\\EmployeeProfileController.cs",
               "RelativeDocumentMoniker": "HCMS\\Controllers\\EmployeeController\\EmployeeProfileController.cs",
@@ -575,7 +969,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 48,
               "Title": "GetBuisnessUnitsQueryHandler.cs",
               "DocumentMoniker": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS.Application\\Features\\BusinessUnits\\Queries\\GetBuisnessUnitsQueryHandler.cs",
               "RelativeDocumentMoniker": "HCMS.Application\\Features\\BusinessUnits\\Queries\\GetBuisnessUnitsQueryHandler.cs",
@@ -587,7 +981,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 46,
               "Title": "EmployeeDto.cs",
               "DocumentMoniker": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS.Application\\Features\\Employees\\Models\\EmployeeDto.cs",
               "RelativeDocumentMoniker": "HCMS.Application\\Features\\Employees\\Models\\EmployeeDto.cs",
@@ -599,7 +993,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 47,
               "Title": "CreateEmployeeProfileCommandHandler.cs",
               "DocumentMoniker": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS.Application\\Features\\Employees\\Commands\\CreateEmployeeProfileCommandHandler.cs",
               "RelativeDocumentMoniker": "HCMS.Application\\Features\\Employees\\Commands\\CreateEmployeeProfileCommandHandler.cs",
@@ -611,7 +1005,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 49,
               "Title": "BusinessUnitController.cs",
               "DocumentMoniker": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS\\Controllers\\BusinessUnit\\BusinessUnitController.cs",
               "RelativeDocumentMoniker": "HCMS\\Controllers\\BusinessUnit\\BusinessUnitController.cs",
@@ -623,31 +1017,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "CreateBenefitCommandHandler.cs",
-              "DocumentMoniker": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS.Application\\Features\\Benefit\\Command\\CreateBenefitCommandHandler.cs",
-              "RelativeDocumentMoniker": "HCMS.Application\\Features\\Benefit\\Command\\CreateBenefitCommandHandler.cs",
-              "ToolTip": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS.Application\\Features\\Benefit\\Command\\CreateBenefitCommandHandler.cs",
-              "RelativeToolTip": "HCMS.Application\\Features\\Benefit\\Command\\CreateBenefitCommandHandler.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAgwA4AAABTAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T10:37:43.225Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "AddJobTitleCommandHandler.cs",
-              "DocumentMoniker": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS.Application\\Features\\Jobs\\JobTitles\\AddJobTitleCommandHandler.cs",
-              "RelativeDocumentMoniker": "HCMS.Application\\Features\\Jobs\\JobTitles\\AddJobTitleCommandHandler.cs",
-              "ToolTip": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS.Application\\Features\\Jobs\\JobTitles\\AddJobTitleCommandHandler.cs",
-              "RelativeToolTip": "HCMS.Application\\Features\\Jobs\\JobTitles\\AddJobTitleCommandHandler.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAQwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T11:16:38.666Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 51,
               "Title": "CreateBusinessUnitCommand.cs",
               "DocumentMoniker": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS.Application\\Features\\BusinessUnits\\Commands\\CreateBusinessUnit\\CreateBusinessUnitCommand.cs",
               "RelativeDocumentMoniker": "HCMS.Application\\Features\\BusinessUnits\\Commands\\CreateBusinessUnit\\CreateBusinessUnitCommand.cs",
@@ -659,7 +1029,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 50,
               "Title": "AddJobCatagoryCommandHandler.cs",
               "DocumentMoniker": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS.Application\\Features\\Jobs\\JobCatagories\\AddJobCatagoryCommandHandler.cs",
               "RelativeDocumentMoniker": "HCMS.Application\\Features\\Jobs\\JobCatagories\\AddJobCatagoryCommandHandler.cs",
@@ -671,7 +1041,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 52,
               "Title": "CreateEmployeeProfileCommand.cs",
               "DocumentMoniker": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS.Application\\Features\\Employees\\Commands\\CreateEmployeeProfileCommand.cs",
               "RelativeDocumentMoniker": "HCMS.Application\\Features\\Employees\\Commands\\CreateEmployeeProfileCommand.cs",
@@ -683,7 +1053,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 53,
               "Title": "BusinessUnitDto.cs",
               "DocumentMoniker": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS.Application\\Features\\BusinessUnits\\Models\\BusinessUnitDto.cs",
               "RelativeDocumentMoniker": "HCMS.Application\\Features\\BusinessUnits\\Models\\BusinessUnitDto.cs",
@@ -695,7 +1065,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 85,
               "Title": "20241108102835_init2.cs",
               "DocumentMoniker": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS.Persistance\\Migrations\\20241108102835_init2.cs",
               "RelativeDocumentMoniker": "HCMS.Persistance\\Migrations\\20241108102835_init2.cs",
@@ -707,7 +1077,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 56,
               "Title": "BusinessUnit.cs",
               "DocumentMoniker": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS.Domain\\BusinessUnit\\BusinessUnit.cs",
               "RelativeDocumentMoniker": "HCMS.Domain\\BusinessUnit\\BusinessUnit.cs",
@@ -719,7 +1089,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 54,
               "Title": "IDataService.cs",
               "DocumentMoniker": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS.Service\\DataService\\IDataService.cs",
               "RelativeDocumentMoniker": "HCMS.Service\\DataService\\IDataService.cs",
@@ -731,7 +1101,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 55,
               "Title": "HCMSDBContext.cs",
               "DocumentMoniker": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS.Persistance\\DBContext\\HCMSDBContext.cs",
               "RelativeDocumentMoniker": "HCMS.Persistance\\DBContext\\HCMSDBContext.cs",
@@ -743,7 +1113,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 57,
               "Title": "MartialStatus.cs",
               "DocumentMoniker": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS.Domain\\Enum\\MartialStatus.cs",
               "RelativeDocumentMoniker": "HCMS.Domain\\Enum\\MartialStatus.cs",
@@ -755,7 +1125,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 58,
               "Title": "GetBusinessUnitTypeQueryHandler.cs",
               "DocumentMoniker": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS.Application\\Features\\BusinessUnits\\Queries\\GetBusinessUnitTypeQueryHandler.cs",
               "RelativeDocumentMoniker": "HCMS.Application\\Features\\BusinessUnits\\Queries\\GetBusinessUnitTypeQueryHandler.cs",
@@ -767,7 +1137,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 59,
               "Title": "UpdateEmployeeProfileCommandHandler.cs",
               "DocumentMoniker": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS.Application\\Features\\Employees\\Commands\\UpdateEmployeeProfileCommandHandler.cs",
               "RelativeDocumentMoniker": "HCMS.Application\\Features\\Employees\\Commands\\UpdateEmployeeProfileCommandHandler.cs",
@@ -779,7 +1149,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 60,
               "Title": "UpdateEmployeeProfileCommand.cs",
               "DocumentMoniker": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS.Application\\Features\\Employees\\Commands\\UpdateEmployeeProfileCommand.cs",
               "RelativeDocumentMoniker": "HCMS.Application\\Features\\Employees\\Commands\\UpdateEmployeeProfileCommand.cs",
@@ -791,7 +1161,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 61,
               "Title": "GetJobCatagoryQueryHandler.cs",
               "DocumentMoniker": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS.Application\\Features\\Jobs\\JobCatagories\\GetJobCatagoryQueryHandler.cs",
               "RelativeDocumentMoniker": "HCMS.Application\\Features\\Jobs\\JobCatagories\\GetJobCatagoryQueryHandler.cs",
@@ -803,43 +1173,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "AddJobGradeCommandHandler.cs",
-              "DocumentMoniker": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS.Application\\Features\\Jobs\\JobGrades\\AddJobGradeCommandHandler.cs",
-              "RelativeDocumentMoniker": "HCMS.Application\\Features\\Jobs\\JobGrades\\AddJobGradeCommandHandler.cs",
-              "ToolTip": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS.Application\\Features\\Jobs\\JobGrades\\AddJobGradeCommandHandler.cs",
-              "RelativeToolTip": "HCMS.Application\\Features\\Jobs\\JobGrades\\AddJobGradeCommandHandler.cs",
-              "ViewState": "AQIAABoAAAAAAAAAAAAowCgAAABUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T11:01:37.606Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 42,
-              "Title": "AddJobGradeCommand.cs",
-              "DocumentMoniker": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS.Application\\Features\\Jobs\\JobGrades\\AddJobGradeCommand.cs",
-              "RelativeDocumentMoniker": "HCMS.Application\\Features\\Jobs\\JobGrades\\AddJobGradeCommand.cs",
-              "ToolTip": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS.Application\\Features\\Jobs\\JobGrades\\AddJobGradeCommand.cs",
-              "RelativeToolTip": "HCMS.Application\\Features\\Jobs\\JobGrades\\AddJobGradeCommand.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T11:01:35.193Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "JobController.cs",
-              "DocumentMoniker": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS\\Controllers\\JobController\\JobController.cs",
-              "RelativeDocumentMoniker": "HCMS\\Controllers\\JobController\\JobController.cs",
-              "ToolTip": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS\\Controllers\\JobController\\JobController.cs",
-              "RelativeToolTip": "HCMS\\Controllers\\JobController\\JobController.cs",
-              "ViewState": "AQIAAC4AAAAAAAAAAAA0wDcAAABKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T09:07:25.38Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 63,
               "Title": "VerificationCode.cs",
               "DocumentMoniker": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS.Domain\\User\\UserNotification\\VerificationCode.cs",
               "RelativeDocumentMoniker": "HCMS.Domain\\User\\UserNotification\\VerificationCode.cs",
@@ -851,7 +1185,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 62,
               "Title": "EmployeeConfiguration.cs",
               "DocumentMoniker": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS.Persistance\\Configuration\\EmployeeConfiguration.cs",
               "RelativeDocumentMoniker": "HCMS.Persistance\\Configuration\\EmployeeConfiguration.cs",
@@ -863,7 +1197,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 64,
               "Title": "NotifyResponse.cs",
               "DocumentMoniker": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS.Domain\\User\\UserNotification\\NotifyResponse.cs",
               "RelativeDocumentMoniker": "HCMS.Domain\\User\\UserNotification\\NotifyResponse.cs",
@@ -875,7 +1209,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 65,
               "Title": "UserRole.cs",
               "DocumentMoniker": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS.Domain\\User\\HRUser\\UserRole.cs",
               "RelativeDocumentMoniker": "HCMS.Domain\\User\\HRUser\\UserRole.cs",
@@ -887,7 +1221,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 66,
               "Title": "Roles.cs",
               "DocumentMoniker": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS.Domain\\User\\HRUser\\Roles.cs",
               "RelativeDocumentMoniker": "HCMS.Domain\\User\\HRUser\\Roles.cs",
@@ -899,7 +1233,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 67,
               "Title": "HRUser.cs",
               "DocumentMoniker": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS.Domain\\User\\HRUser\\HRUser.cs",
               "RelativeDocumentMoniker": "HCMS.Domain\\User\\HRUser\\HRUser.cs",
@@ -911,7 +1245,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 68,
               "Title": "HRRole.cs",
               "DocumentMoniker": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS.Domain\\User\\HRUser\\HRRole.cs",
               "RelativeDocumentMoniker": "HCMS.Domain\\User\\HRUser\\HRRole.cs",
@@ -923,7 +1257,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 69,
               "Title": "UserRegister.cs",
               "DocumentMoniker": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS.Domain\\User\\Signup\\UserRegister.cs",
               "RelativeDocumentMoniker": "HCMS.Domain\\User\\Signup\\UserRegister.cs",
@@ -935,7 +1269,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 70,
               "Title": "UserLogin.cs",
               "DocumentMoniker": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS.Domain\\User\\Signin\\UserLogin.cs",
               "RelativeDocumentMoniker": "HCMS.Domain\\User\\Signin\\UserLogin.cs",
@@ -947,7 +1281,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 71,
               "Title": "IExchangeEmail.cs",
               "DocumentMoniker": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS.Service\\EmailService\\IExchangeEmail.cs",
               "RelativeDocumentMoniker": "HCMS.Service\\EmailService\\IExchangeEmail.cs",
@@ -959,7 +1293,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 73,
               "Title": "JobCatagoryConfiguration.cs",
               "DocumentMoniker": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS.Persistance\\Configuration\\JobCatagoryConfiguration.cs",
               "RelativeDocumentMoniker": "HCMS.Persistance\\Configuration\\JobCatagoryConfiguration.cs",
@@ -971,7 +1305,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 72,
               "Title": "Exchange.cs",
               "DocumentMoniker": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS.Service\\EmailService\\Exchange.cs",
               "RelativeDocumentMoniker": "HCMS.Service\\EmailService\\Exchange.cs",
@@ -983,7 +1317,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 74,
               "Title": "JobGradeConfiguration.cs",
               "DocumentMoniker": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS.Persistance\\Configuration\\JobGradeConfiguration.cs",
               "RelativeDocumentMoniker": "HCMS.Persistance\\Configuration\\JobGradeConfiguration.cs",
@@ -995,7 +1329,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 75,
               "Title": "RoleConfiguration.cs",
               "DocumentMoniker": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS.Persistance\\Configuration\\RoleConfiguration.cs",
               "RelativeDocumentMoniker": "HCMS.Persistance\\Configuration\\RoleConfiguration.cs",
@@ -1007,7 +1341,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 76,
               "Title": "BusinessUnitTypeConfiguration.cs",
               "DocumentMoniker": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS.Persistance\\Configuration\\BusinessUnitTypeConfiguration.cs",
               "RelativeDocumentMoniker": "HCMS.Persistance\\Configuration\\BusinessUnitTypeConfiguration.cs",
@@ -1019,7 +1353,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 77,
               "Title": "AddJobCatagoryCommand.cs",
               "DocumentMoniker": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS.Application\\Features\\Jobs\\JobCatagories\\AddJobCatagoryCommand.cs",
               "RelativeDocumentMoniker": "HCMS.Application\\Features\\Jobs\\JobCatagories\\AddJobCatagoryCommand.cs",
@@ -1031,7 +1365,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 79,
               "Title": "PersistanceDBConnection.cs",
               "DocumentMoniker": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS.Persistance\\DBContext\\PersistanceDBConnection.cs",
               "RelativeDocumentMoniker": "HCMS.Persistance\\DBContext\\PersistanceDBConnection.cs",
@@ -1043,7 +1377,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 78,
               "Title": "ApplicationServiceRegistration.cs",
               "DocumentMoniker": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS.Application\\ApplicationServiceRegistration.cs",
               "RelativeDocumentMoniker": "HCMS.Application\\ApplicationServiceRegistration.cs",
@@ -1055,7 +1389,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 61,
+              "DocumentIndex": 80,
               "Title": "HCMS.Service.csproj",
               "DocumentMoniker": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS.Service\\HCMS.Service.csproj",
               "RelativeDocumentMoniker": "HCMS.Service\\HCMS.Service.csproj",
@@ -1067,7 +1401,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 63,
+              "DocumentIndex": 82,
               "Title": "UserLoginEmailSeedData.cs",
               "DocumentMoniker": "D:\\Projects\\HCMS\\HCMS.Persistance\\SeedData\\EmailTempletSeedData\\UserLoginEmailSeedData.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\Projects\\HCMS\\HCMS.Persistance\\SeedData\\EmailTempletSeedData\\UserLoginEmailSeedData.cs",
@@ -1078,7 +1412,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 64,
+              "DocumentIndex": 83,
               "Title": "UserRegisterEmailSeedData.cs",
               "DocumentMoniker": "D:\\Projects\\HCMS\\HCMS.Persistance\\SeedData\\EmailTempletSeedData\\UserRegisterEmailSeedData.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\Projects\\HCMS\\HCMS.Persistance\\SeedData\\EmailTempletSeedData\\UserRegisterEmailSeedData.cs",
@@ -1089,7 +1423,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 62,
+              "DocumentIndex": 81,
               "Title": "UserAccountRegister.cs",
               "DocumentMoniker": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS.Application\\Features\\UserAccount\\UserAccountRegister.cs",
               "RelativeDocumentMoniker": "HCMS.Application\\Features\\UserAccount\\UserAccountRegister.cs",
@@ -1101,7 +1435,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 65,
+              "DocumentIndex": 84,
               "Title": "AuthenticationController.cs",
               "DocumentMoniker": "D:\\New_HCMS_By_Me\\New_HCMS\\HCMS\\HCMS\\HCMS\\Controllers\\AuthenticationController.cs",
               "RelativeDocumentMoniker": "HCMS\\Controllers\\AuthenticationController.cs",

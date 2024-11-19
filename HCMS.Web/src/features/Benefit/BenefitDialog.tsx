@@ -1,54 +1,57 @@
-
-import { Form, Formik, ErrorMessage } from 'formik'
-import { Box, Button, Dialog, DialogActions, DialogContent, Grid, FormHelperText } from '@mui/material';
-import { useCallback, useState, useEffect } from 'react';
-import { DialogHeader, FormTextField, FormSelectField } from '../../components';
-import { useCreateBenefitMutation, BenefitDto } from '../../app/api';
-import { enums } from '../../app/api';
-import { add } from 'lodash-es';
-import { PageHeader } from '../../components/PageHeader';
-import * as Yup from 'yup';
-import { CurrencyYuanSharp, TouchAppRounded } from '@mui/icons-material';
+import { Form, Formik, ErrorMessage } from "formik";
+import {
+  Box,
+  Button,
+  Dialog,
+  DialogActions,
+  DialogContent,
+  Grid,
+  FormHelperText,
+} from "@mui/material";
+import { useCallback, useState, useEffect } from "react";
+import { DialogHeader, FormTextField, FormSelectField } from "../../components";
+import {
+  useCreateBenefitMutation,
+  BenefitDto,
+  CreateBenefitCommand,
+} from "../../app/api";
+import { enums } from "../../app/api";
+import { add } from "lodash-es";
+import { PageHeader } from "../../components/PageHeader";
+import * as Yup from "yup";
+import { CurrencyYuanSharp, TouchAppRounded } from "@mui/icons-material";
 const emptyBenefit = {
   Name: "",
-  Description: ""
+  Description: "",
 } as any;
 export const BenefitDialog = ({ onClose }: { onClose: () => void }) => {
-  const [BenefitData, setBenefitData] = useState<BenefitDto>();
+  const [BenefitData, setBenefitData] = useState<CreateBenefitCommand>();
   const [AddBenefit] = useCreateBenefitMutation();
   useEffect(() => {
     setBenefitData({
       ...emptyBenefit,
-      ...BenefitData
-    })
+      ...BenefitData,
+    });
   }, [emptyBenefit, BenefitData]);
 
-  const handleSubmit = useCallback((values: BenefitDto) => {
-    AddBenefit
-      ({ createBenefitCommand: values })
-      .unwrap()
-      .then(() => onClose());
-  }, [onClose, AddBenefit]);
-
-  const handleSubmit1 = useCallback((value: BenefitDto) => {
-    AddBenefit({ createBenefitCommand: value }).unwrap().then(() => onClose());
-  }, [onClose, AddBenefit]);
-
-  const handleButtonAction = useCallback((value: BenefitDto) => {
-    AddBenefit({ createBenefitCommand: value }).unwrap().then(() => onClose());
-  }, [onClose, AddBenefit]);
+  const handleSubmit = useCallback(
+    (values: CreateBenefitCommand) => {
+      AddBenefit({ createBenefitCommand: values })
+        .unwrap()
+        .then(() => onClose());
+    },
+    [onClose, AddBenefit]
+  );
 
   const BenefitValidation = Yup.object({
-    name: Yup.string().
-      required()
-      .min(2, "Name must be at least 2 characters"),
+    name: Yup.string().required().min(2, "Name must be at least 2 characters"),
     benefitType: Yup.number()
       .required()
       .min(1, "Benefit type Can not be less than 1")
       .max(4, "Benefit Type Can  not be more than 5"),
     description: Yup.string()
-      .required().
-      min(2, "Description Name must be at least two characters")
+      .required()
+      .min(2, "Description Name must be at least two characters"),
   });
 
   return (
@@ -79,9 +82,8 @@ export const BenefitDialog = ({ onClose }: { onClose: () => void }) => {
                       error={Boolean(errors.name && touched.name)}
                       helperText={
                         touched.name && Error.name ? (
-                        <FormHelperText error >
-                          {errors.name}
-                        </FormHelperText>) : null
+                          <FormHelperText error>{errors.name}</FormHelperText>
+                        ) : null
                       }
                     />
                     <FormSelectField
@@ -99,15 +101,16 @@ export const BenefitDialog = ({ onClose }: { onClose: () => void }) => {
                         },
                         {
                           label: "House",
-                          value: enums.BenefitType.House
-                        }
+                          value: enums.BenefitType.House,
+                        },
                       ]}
                       error={Boolean(errors.benefitType && touched.benefitType)}
-                      helperText={errors.benefitType && touched.benefitType ? (
-                        <FormHelperText error>
-                          {errors.benefitType}
-                        </FormHelperText>
-                      ) : null
+                      helperText={
+                        errors.benefitType && touched.benefitType ? (
+                          <FormHelperText error>
+                            {errors.benefitType}
+                          </FormHelperText>
+                        ) : null
                       }
                     />
                     <FormTextField
@@ -115,11 +118,12 @@ export const BenefitDialog = ({ onClose }: { onClose: () => void }) => {
                       label="Benefit Description"
                       type="text"
                       error={Boolean(errors.description && touched.description)}
-                      helperText={errors.description && touched.description ? (
-                        <FormHelperText error>
-                          {errors.description}
-                        </FormHelperText>
-                      ) : null
+                      helperText={
+                        errors.description && touched.description ? (
+                          <FormHelperText error>
+                            {errors.description}
+                          </FormHelperText>
+                        ) : null
                       }
                     />
                   </Grid>
@@ -127,14 +131,14 @@ export const BenefitDialog = ({ onClose }: { onClose: () => void }) => {
               </DialogContent>
               <DialogActions>
                 <Button onClick={onClose}>Cancel</Button>
-                <Button variant="outlined" type="submit">Save</Button>
+                <Button variant="outlined" type="submit">
+                  Save
+                </Button>
               </DialogActions>
             </Form>
-
           )}
         </Formik>
       )}
     </Dialog>
-
   );
-}
+};
